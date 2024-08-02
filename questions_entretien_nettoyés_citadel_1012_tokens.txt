@@ -1,0 +1,63 @@
+### Mise à jour et analyse de la liste des questions
+
+#### Expérience professionnelle:
+- Décrivez des projets technologiques et les défis rencontrés, expériences de stage et recherches (x8).
+- Pouvez-vous nous donner votre parcours professionnel?
+- Parlez-moi du groupe dans lequel vous travaillez et de votre expérience particulière.
+- Que pensez-vous des modèles statistiques, notamment sur la précision de la prédiction basée sur un échantillon d'entraînement ou un échantillon de test indépendant ?
+- Connaissez-vous l'erreur en échantillon et l'erreur hors échantillon ?
+- Quels domaines spécifiques couvrez-vous ? Combien d'actions suivez-vous simultanément ? Préférez-vous le long, le court ou le market neutral ? Comment communiquez-vous avec votre PM ?
+- Présentez-vous (x4).
+- Pourquoi avez-vous fait la transition entre différents emplois (x2).
+- Pourquoi devrions-nous vous embaucher plutôt qu'un autre candidat? (x4).
+- Pourquoi avez-vous postulé pour ce travail? Expliquez pourquoi vous pensez que vous seriez bon pour ce poste.
+- Êtes-vous familier avec Citadel?
+- Pourquoi Citadel, et qu'apportez-vous à notre entreprise?
+- Pourquoi voulez-vous travailler dans cette institution financière plutôt que dans une société purement logicielle comme Microsoft, etc.?
+- Discuter des relations préexistantes.
+- Pourquoi finance ? (x2)
+- Pourquoi vous intéressez-vous à la finance?
+- Quand était la dernière fois que vous avez programmé?
+- Pourquoi voulez-vous travailler ici et non chez Goldman Sachs ? (nouvelle, x1)
+- Décrivez la différence entre le monde académique et le monde des affaires ? (nouvelle, x1)
+
+#### Questions algorithmiques et codage:
+- Connaissances des algorithmes de tri (x2).
+- Parlez-nous des projets de programmation sur lesquels vous avez travaillé / à quel niveau se situent vos capacités de programmation ? (x3).
+- Écrire un code pour rechercher dans un tableau (x2).
+- Écrivez une fonction qui détermine si un nombre est premier ou non.
+- Longest Monotonically Increasing Subsequence Size (N log N).
+- Expliquer le principe de base du tri fusion et comment il fonctionne.
+- Inverser une chaîne de caractères.
+- Comment implémenter une hashmap en C#?
+- Beaucoup de questions sur les threads et la synchronisation (OS non encore pris).
+- Coder \( x^n \) en temps \( O(\log n) \).
+- Périmètre des variables en C++, différence entre passage par valeur, référence et pointeur.
+- Implémenter une pile en C++.
+- Comment implémenteriez-vous le jeu Bejeweled ? (structures de données et algorithmes pour détecter et dégager des blocs)
+- Comment pouvez-vous trouver une boucle dans une liste chaînée ?
+- Écrivez du code pour multiplier deux matrices.
+- Vous avez un tableau d'entiers, incluant des valeurs négatives et positives, et un autre entier S. Trouver trois entiers dont la somme est la plus proche de S en temps O(n^2).
+
+#### Questions techniques:
+- Quel niveau de l'OSI modèle l'ICMP opère-t-il?
+- Énoncez et prouvez le théorème central limite.
+- Statistiques, programmation, finance, et d'autres compétences pertinentes pour les rôles techniques et analytiques.
+- Beaucoup de casse-tête et d'algorithmes, questions à propos du système d'exploitation.
+- Écrivez le parcours "in-order" d'un arbre.
+- Quelle serait la logique de jeu si vous deviez créer un jeu d'échecs en Java?
+- Corrélation des variables aléatoires
+- Concepts de probabilité
+- La régression et sélection de fonctionnalités, le surajustement, et la programmation linéaire
+- Pourquoi certains centres de données utilisent-ils l'alimentation DC au lieu de l'AC?
+- Donner des pièces. Comment les retourner pour s'assurer que toutes les pièces ont le même côté?
+- Copier une liste chaînée avec des pointeurs aléatoires.
+- Qu'est-ce qu'une option?
+- Savez-vous ce qu'est le polymorphisme?
+- Détaillez le logiciel que vous avez utilisé en tant que préparateur de déclarations fiscales.
+- Décrivez la poignée de main en trois étapes de TCP.
+
+#### Questions mathématiques et sur les puzzles:
+- Suppose you have three random variables. The correlation between A and B is 0.6, the correlation between A and C is 0.8. What is the range of correlation between B and C? (x2)
+- Questions techniques sur votre travail de recherche et quelques questions de probabilité.
+- Questions focussées sur l'optimisation de portefeuilleJe suis désolé, mais je ne vois pas de contexte ou de réponse précédente à laquelle je pourrais continuer. Pourriez-vous fournir plus de détails ou poser une question plus spécifique ? Je serais ravi de vous aider !

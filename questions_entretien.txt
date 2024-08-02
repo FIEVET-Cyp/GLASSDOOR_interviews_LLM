@@ -1,0 +1,1606 @@
+Voici la liste des questions d'entretien extrait des témoignages :
+
+1. **How would you model electricity market?**
+2. **Describe a scenario in which your team wasn't cooperating well.**
+3. **One question emphasizes the importance of following integrity.**
+4. **Tell me about a recent threat you've worked on.**
+5. **About my background. I had to talk about where I worked, what I did, my school.**
+6. **It was a leetcode medium problem.**
+7. **Is NoSQL ACID compliant?**
+8. **Statistics and algorithms; also past experiences.**
+9. **Asked about hands on experience versus leadership and strategy.**
+10. **Minimal equal sum using DP.**
+
+Cette liste compile les diverses questions posées lors des entretiens mentionnés dans les témoignages partagés.
+Voici la liste des questions qui ont été posées au cours des différentes interviews :
+
+1. Quelle est la difficulté la plus importante que vous avez rencontrée lors d'un projet de groupe ?
+2. Problème difficile de Leetcode sur un motif d'échiquier (numéro inconnu).
+3. Question d'algorithme sur le problème du voyageur de commerce.
+4. Décrivez votre parcours professionnel souhaité.
+5. Conception du système de trading d'instruments financiers. Comment assurerez-vous l'atomicité, la cohérence, etc. ?
+6. Calculez les statistiques récapitulatives dans Pandas.
+7. Quels sont les moyens de construire une distribution uniforme avec seulement une pièce de monnaie équitable ?
+8. Ils ont posé une question sur la taille du marché pour une entreprise.
+9. Vous avez trois variables aléatoires, X, Y et Z. Les trois corrélations entre ces variables sont les mêmes. Quelle est la borne la plus serrée pour $\rho$ ? Et pour le cas général de n variables aléatoires ?
+10. Qu'est-ce qu'une fonction de densité de probabilité ?
+Voici la liste des questions posées lors des interviews mentionnées :
+
+1. Knight moves, similaire à Leetcode 1197.
+2. Quelle a été votre expérience de travail en équipe ?
+3. Question liée à un tas (heap). Similaire au problème de la planification des tâches (task-scheduling problem).
+4. Quel est l'impact sur vos estimations d'OLS si vous doublez par erreur la taille de votre échantillon ?
+5. Quel est votre projet dont vous êtes le plus fier ?
+6. Comment ça va ? Étant donné un tableau trié, trouvez deux nombres dont la somme est égale à un objectif.
+7. DFS problem similaire au problème maxIslands sur Leetcode.
+8. Une difficulté que vous avez rencontrée ?
+9. Pourquoi quittez-vous votre entreprise actuelle ?
+10. Étant donné un entier n, retournez le nombre de façons d'écrire n comme la somme d'entiers positifs consécutifs. 
+   - Exemple 1: Input: n = 5 Output: 2 Explication: 5 = 2 + 3 
+   - Exemple 2: Input: n = 9 Output: 3 Explication: 9 = 4 + 5 = 2
+Voici la liste des questions posées lors des interviews selon les témoignages :
+
+1. Pour le poste de Trader intern :
+   - Market making game
+   - Population des États-Unis, de l'Inde et d'un autre endroit
+   - Prix de Google compte tenu de la volatilité
+   - Partie de poker
+
+2. Pour le poste de Software Developer Intern :
+   - Concevoir un système de shopping en ligne
+
+3. Pour un autre poste de Software Developer Intern :
+   - Évaluation de codage sur la programmation dynamique et les graphes
+
+4. Pour un autre poste de Software Developer Intern :
+   - Questions de niveau moyen à difficile sur Leetcode
+
+5. Pour un autre poste de Software Developer Intern :
+   - Parlez-moi de votre projet le plus récent
+
+6. Pour un autre poste de Software Developer Intern :
+   - Question DFS/BFS sur un système de fichiers
+
+7. Pour un autre poste de Software Developer Intern :
+   - Question générale de programmation, avec choix du langage de programmation
+
+8. Pour un poste de Software Engineer (Internship) :
+   - Trouver le nombre minimum de déplacements nécessaires pour qu'un cavalier atteigne une case cible sur un échiquier nxn (n étant donné dans l'entrée)
+
+
+Voici la liste des questions qui ont été posées lors des interviews :
+
+1. **Details about specific statistical and machine learning models on CV** 
+2. **HackerRank style coding**
+3. **Tell me about yourself and your relevant experience for the position**
+4. **Reverse a Linked List - LC Easy**
+5. **Their biggest determining factor in whether or not you get the interview is whether or not you’re able to solve a lot of math problems. These math problems are indicative of whether or not you’re able to make calculations real time regarding the market.**
+6. **Questions related to probability puzzles, similar to what you can find online. Some leetcode style questions as well.**
+7. **I don't exactly recall the questions themselves, however the harder question was worded very poorly, thus was hard to understand desired product it asked for.**
+8. **Describe the role you applied for.**
+9. **How do you stay organized? Experience working in a fast paced environment? How do you handle competing priorities?**
+10. **Why do you want to work at citadel**
+11. **A coding question in an online editor.**
+Voici la liste des questions qui ont été posées lors des interviews mentionnées dans ton texte :
+
+1. **Hackerrank Interview**
+   - Question 1 : Topological Sort a Set of Nodes
+
+2. **Instant OA**
+   - Question 1 : 2x leetcode hard questions, il existe une liste de ces questions en ligne.
+   
+3. **Self-introduction and resume screening**
+   - Question 1 : Deux questions sur l'algèbre linéaire, une question sur le "drunk man random walk" demandant la probabilité d'atteindre A avant B.
+   - Question 2 : What are you looking for in your new role?
+
+4. **Citadel Interview**
+   - Question 1 : Coding question: involved a broken, randomised linked list.
+
+5. **Probabilité and Research Questions**
+   - Question 1 : The probability of two people meeting each other in the same time range.
+
+6. **Technical Background Questions**
+   - Question 1 : Questions sur les statistiques, mathématiques et programmation, principalement en C++ et Python.
+
+7. **Technical Interview Focus on Graph**
+   - Question 1 : The first round problem is a graph problem. Ils m'ont aussi demandé le temps de
+Voici la liste des questions posées lors des différents entretiens :
+
+1. **Entretien 1 :**
+   - What was an instance when you received feedback regarding a project and needed to pivot?
+
+2. **Entretien 2 :**
+   - How would you explain a technical concept to a non-technical PM?
+
+3. **Entretien 3 :**
+   - Leetcode hard of strings, some concurrency and some easies like read number of lines
+
+4. **Entretien 4 :**
+   - OS, systems, and typical med-hard lc questions
+
+5. **Entretien 5 :**
+   - Write an SQL query to return associated entities with specific ids.
+
+6. **Entretien 6 :**
+   - Leetcode style questions and some ML ones.
+
+7. **Entretien 7 :**
+   - Why do you want to work here?
+
+8. **Entretien 8 :**
+   - Design an order buffer class, buffering at most N orders. You can push orders into and pop orders from it. There are two kinds of orders: H(igh prio) and L(ow prio), and for H orders they have to follow LIFO rule during push/pop, and L orders is FIFO. Besides, when
+Voici la liste des questions posées lors des différents entretiens :
+
+1. Given an array of points representing a mountain and a position, what is the highest point a person could see?
+
+2. Walk us through your resume.
+
+3. How would you run a Monte Carlo simulation in Python for predicting the probability of getting 4/6 coins as heads without using for loops?
+
+4. Graphs questions were asked mainly and a few DP questions.
+
+5. Something about converting between currencies.
+
+6. Leetcode Hard. Link:- [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+   
+   Leetcode Medium. Link:- [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
+   
+7. The string problem was medium level and tree problem is a basic DFS logic.
+
+8. Thoughts on markets: expected value of a die.
+
+9. Number of moves of a knight on a chessboard between two specified cells.
+
+   DP: Build an optimal team from two teams of hackers.
+
+10. Stat question regarding expected value to find the best threshold.
+Voici la liste des questions qui ont été posées durant les interviews selon les témoignages :
+
+1. Parlez-moi de vos projets.
+2. Questions sur la probabilité liées à la distribution normale.
+3. Qu'est-ce qu'une matrice de covariance ?
+4. Parcourez votre expérience dans le curriculum vitae.
+5. Coding (2 assignments pour quelques heures).
+6. Question mathématique lié à la programmation.
+7. Pourquoi voulez-vous quitter votre employeur actuel ?
+8. Questions communes sur les algorithmes et les structures de données.
+9. Questions sur le CV. Quelques questions techniques sur les statistiques.
+10. Trouvez la médiane d'une fenêtre glissante de taille X dans un ensemble de nombres N (où N peut être très très grand) de manière efficace.
+11. Parlez-moi d'un projet sur lequel vous avez travaillé.
+12. Questions de leetcode de difficulté moyenne à dure et beaucoup de questions comportementales.
+
+Cela couvre les différents types de questions mentionnés dans les témoignages.
+Voici la liste des questions qui ont été posées dans les interviews :
+
+1. Flip a biased coin, find probability of success of HH.
+2. It was a Leetcode medium question.
+3. Why would you like to work for us?
+4. Tell me about your career to date.
+5. What are the risks involved in option selling?
+6. How does it work?
+7. Can you explain the key strategies in option selling?
+8. Tell me more about the importance of risk management in this practice.
+9. What are the potential benefits of option selling for investors?
+10. How does it differ from other investment strategies?
+11. What are some common mistakes that option sellers should avoid?
+12. How can one effectively manage the portfolio while selling options?
+13. What are the essential skills and knowledge required to succeed in option selling?
+14. Can you provide an example of a successful option selling trade?
+15. What is the assumption of linear regression?
+16. Give an example of a complex matter I had worked on and how I had handled it.
+17. Relevant projects on resume, what technologies did you use?
+18. What is the most challenging part in your project?
+19. Random variable have equal pairwise correlation. Could you tell us the range?
+
+
+Voici la liste des questions qui ont été posées lors des interviews mentionnées :
+
+1. **Questions d'entretien - Témoignage 1** 
+   - Which specific securities were you using for your trading strategy when working for one of our top competitors?
+
+2. **Questions d'entretien - Témoignage 2**
+   - How do you deal with stressful situations?
+
+3. **Questions d'entretien - Témoignage 3**
+   - Explain lasso, ridge regression as a penalty.
+   - Code merge sort.
+
+4. **Questions d'entretien - Témoignage 4**
+   - Why do you want to go to Citadel?
+
+5. **Questions d'entretien - Témoignage 5**
+   - Several OS memory management problems with detailed code sample.
+   - A coding problem: N queens.
+
+6. **Questions d'entretien - Témoignage 6**
+   - What is the probability of a matrix determinant?
+
+7. **Questions d'entretien - Témoignage 7**
+   - How to get a uniform distribution over a disk given two uniform distributions?
+
+8. **Questions d'entretien - Témoignage 8**
+   - Group trading game involving cards.
+
+9. **Questions d'entretien - Témoign
+Voici la liste des questions qui ont été posées lors des interviews :
+
+1. Pourquoi voulez-vous travailler ici et détails du CV ?
+2. Question spécifique sur un problème basé sur les graphes.
+3. Parlez-moi un peu de vous.
+4. Décrivez comment fonctionne une forêt aléatoire (random forest).
+5. Implémentez une file d'attente à l'aide d'une pile.
+6. Quel est le dernier livre que vous avez lu ?
+7. Quel est le ratio de Sharpe d'un portefeuille combinant différents signaux ?
+8. Expérience passée, projet dont vous êtes fier ou que vous avez trouvé intéressant.
+9. Surface de volatilité implicite (Implied Volatility Surface).
+10. Questions de probabilité.
+11. Des questions de votre côté ?
+Voici la liste des questions qui ont été posées lors des interviews décrites :
+
+1. Leetcode medium and hard problems
+2. What was the one time that you overcame conflict in your team?
+3. Tell me a bit about yourself
+4. 2 LC Hard Questions on Hackerrank
+5. Tell me about a project you've worked on?
+6. Brain teasers. Discuss a data project about predicting house prices. Need a lot of feature engineering, feature collection, and model knowledge. Open-ended question.
+7. random walk, Brownian motion, basic maths
+8. Why you want to work at Citadel?
+9. Please Tell me about yourself
+
+Note : Les doublons dans les témoignages peuvent contenir la même question répétée.
+### Liste des questions posées lors des entretiens :
+
+1. **Leetcode style questions**
+   - Quelle est la longueur maximale de la distance entre les nœuds d'un arbre ?
+   - Retournez le nombre minimum de mouvements de cavalier nécessaires pour aller du point (a, b) au point (c, d) sur un échiquier nxn.
+   
+2. **Citadel (New York, NY) :**
+   - Quelle est votre expérience passée en investissements et quelles sont vos propositions ?
+   - Quels sont les compromis de votre projet de recherche ?
+   
+3. **Questions techniques et comportementales :**
+   - Comment fonctionne un thread ?
+   - Quels sont les compromis entre websocket et REST ?
+   - Quelle est la complexité temporelle des algorithmes analysés ?
+   - Comment concevriez-vous et optimiseriez-vous une base de données ?
+   
+4. **Questions d'adéquation et de motivation :**
+   - Parlez-moi de votre CV, qu'est-ce qui vous motive ?
+   - Introduction, que cherchez-vous dans le prochain rôle, pourquoi cette entreprise et ce rôle, quels conseils constructifs avez-vous reçus précédemment ?
+
+### Ce que vous devez préparer :
+- Connaissance approfondie en structures de données (D
+Voici la liste des questions qui ont été posées lors des interviews :
+
+1. Commencez par quelques problèmes de pratique de l'ingénierie logicielle.
+    - Sélectionner des personnes dans une ville proportionnellement à la taille de la population du district. 
+    - Optimiser le runtime en contexte de répétitions d'appel de la fonction avec une erreur acceptable.
+
+2. Pourquoi Citadel plutôt que Jane Street, Google ou Goldman Sachs ?
+    - Comment résoudriez-vous un problème de planification donné un DAG de tâches et k ordinateurs ?
+    - Que se passe-t-il si k vaut un ou l'infini ?
+
+3. Questions de probabilité et problèmes statistiques courants.
+    - Probabilité X > Y, X ~ N(0,2), Y ~ N(0,1).
+
+4. Questions quantitatives : analyse de régression et calcul.
+    - Une variation du paradoxe de Saint-Pétersbourg.
+    - Discussion sur le travail précédent et macroéconomie.
+
+5. Questions de programmation de type leet code.
+    - Implémenter un algorithme spécifique.
+
+6. Questions de programmation dynamique.
+    - Problèmes de programmation dynamique similaires à ceux de LeetCode.
+
+7. Questions sur les
+Voici la liste des questions d'entretien posées, telles qu'extraites des témoignages :
+
+1. Write number of ways to schedule processes on the intervals.
+2. Leetcode hard/medium style questions will be asked.
+3. Can't share actual questions but the difficult one was the graph question.
+4. Algorithms on dynamic programming questions.
+5. What was your research & internship project?
+6. Very lengthy description. Dynamic programming.
+7. Introduce yourself.
+8. Why Citadel?
+9. Time when you had some challenging project.
+10. Time when you showed leadership skills.
+11. Why do you want to go into trading?
+12. LC med about graphs.
+13. System design question about an ATM.
+14. Q: I have a square, and place three dots along the 4 edges at random. What is the probability that the dots lie on distinct edges?
+
+Cette liste regroupe toutes les questions d'entretien mentionnées dans les témoignages partagés.
+Voici une liste des questions qui ont été posées lors des diverses interviews mentionnées :
+
+1. **Focus on algorithms**:
+   - "Ils m'ont donné un algorithme de Dijkstra à compléter en environ 25 minutes. Parler de votre processus de pensée tout au long de l'exercice."
+
+2. **Bit Manipulation, Statistics and SQL**:
+   - "Des questions peuvent être posées sur à peu près n'importe quel sujet, j'ai eu des questions sur la manipulation de bits, les statistiques et le SQL."
+
+3. **Basic probability, numerical reasoning and extended response**:
+   - "Étant donné un bocal à cookies, rempli de cookies des types A, B et C en quantités X, Y et Z respectivement. Si le cookie C vaut J, quelle est la valeur attendue lorsque l'on met la main dans le bocal et que l'on en sort un cookie ?"
+
+4. **String-based coding question**:
+   - "Inverser une chaîne de caractères et s'assurer qu'elle est un palindrome."
+
+5. **Optimize a queue of customer requests**:
+   - "Optimiser une file d'attente de demandes de clients, chacune avec un temps spécifique d'achèvement, et assigner les
+Voici la liste des questions posées durant les interviews mentionnées :
+
+1. Why are you interested in this role?
+2. (NDA - cannot share)
+3. 60 minutes for 2 leetcode questions
+4. Describe your experience with reading and interpreting code, as well as your knowledge of system design concepts.
+5. Shortest path from start to the end without falling into the traps.
+6. Probability questions, confidence interval question, and many expected value questions.
+7. What is a way to resolve a domain name issue when a device can't connect to the domain?
+8. Programming question involving first implementing a binary search from scratch.
+9. What are your top three strengths?
+10. What are the odds a random walk doesn't go above or below 30 within 100 steps?
+
+Ces questions couvrent une gamme variée de compétences, allant des algorithmes et de la programmation fondamentale à des aspects plus comportementaux et techniques.
+Voici une liste des questions qui ont été posées lors des interviews mentionnées :
+
+1. What data you need to develop a dispatch optimization model?
+2. Questions related to finance; coding up a regression.
+3. Tell me about the challenges faced with your current project.
+4. Why Citadel? Why this role? Weakness and strength, resume related questions.
+5. Leetcode type of question with time and space complexity.
+6. Hacker rank test: 2 medium coding questions.
+7. A lot of conversations about projects in CV with different interviewers.
+8. The question is basically based on your resume and keep digging the details until you can not come up with an answer.
+9. Leetcode DP problems on the hard level.
+
+Voici la liste des questions qui ont été posées lors des interviews :
+
+1. What is your BAU in your current role?
+2. Why do you want to leave your current job?
+3. What is your research on?
+4. Describe the coding task. Then classic why Citadel stuff.
+5. A series of Leetcode-like CS questions.
+6. Data Science challenge on forecasting.
+7. Expected value of a dice roll cubed.
+8. Expected number of samples from a uniform [0,1] distribution we should take such that their sum passes 1.
+9. Be prepared to answer questions on your CV.
+
+Ces questions couvrent une large variété allant des questions comportementales aux questions techniques en passant par des défis de codage et des tâches de science des données.
+Voici la liste des questions posées lors des interviews mentionnées dans les témoignages :
+
+1. Probability, markets, programming, behavioral, trading games
+2. Some sequences questions
+3. How to handle support issues if there is an emergency?
+4. Valuation questions regarding the HF business
+5. Why Citadel over its competitors?
+6. What you like this com1
+7. Why do you want to work here? Typical questions.
+8. Two leetcode medium level problems
+9. LC merge sort question. Not too difficult
+10. Walk me through your resume
+
+Voilà les questions d'entretien tirées des témoignages fournis.
+Voici la liste des questions posées lors des interviews mentionnées dans les témoignages :
+
+1. **Hard , competitive but fair process.**
+   - General fit and finance questions that are widely available. Brainteasers
+
+2. **Coding assessment on Hacker Rank** 
+   - No questions specifically listed. Mention de la difficulté de l'évaluation de codage.
+
+3. **5+ interviews avec le personnel de développement commercial et les gestionnaires de portefeuille pour le fonds actions globales.**
+   - How would you evaluate portfolio managers?
+   - Why are you interested in this role?
+   - How would you source new portfolio managers?
+
+4. **Processus multi-étapes principalement en ligne.**
+   - Usually about previous experience and projects.
+
+5. **Test de modélisation suivi par un entretien téléphonique avec un recruteur.**
+   - Why active investing?
+   - Why Citadel?
+   - Tell me about a stock you like.
+   - Valuation exercise over the phone.
+
+6. **Étude de cas basée sur certains états financiers.**
+   - Can you pitch me a stock?
+
+7. **Entretien avec le Data Science Group (DSG).**
+   - Describe what this data set means.
+   - Extract the data which meets
+Voici la liste des questions posées lors des interviews :
+
+1. **Difference between Citadel and Citadel Securities?**
+
+2. **What is sitsec? What is performance historically?**
+
+3. **Sorting lists / arrays of objects**
+
+4. **What is implied volatility? What is the probability distribution of X+Y where X and Y are iid uniformly distributed random variables?**
+
+5. **Why do you want to work here? Why are you leaving your current job?**
+
+6. **Online Assessment: Online Assessment was in HackerRank. It consisted of two questions. Both were medium leetcode questions. First question was based on sliding window topic. Second question was based on Dynamic Programming topic.**
+
+7. **They involved sorting concepts and arithmetic concepts**
+
+8. **Finding the minimum of two train distances.**
+
+9. **Trading/market making games at super day. Probability and expected value**
+
+10. **Problem solving in hardware computation question.**
+
+Ces questions couvrent divers aspects techniques et personnels, y compris des questions sur des concepts de programmation, des questions spécifiques à l'industrie, et des questions comportementales.
+Voici la liste des questions qui ont été posées dans les interviews mentionnées :
+
+1. **Question concernant l'execution automatique de la fourchette bid-ask** ("Bid ask spread with automatic executions; return shares executed")
+
+2. **Questions motivationnelles** : 
+   - "Motivation, what you look for, etc."
+
+3. **Questions comportementales** :
+   - "Why did you choose to go to X school?"
+   - "Why did you choose X majors?"
+   - "Why are you interested in working for Citadel considering your lack of background in finance?"
+   - "What is a problem/challenge you had during a project and how did you overcome?"
+
+4. **Questions sur les expériences passées** :
+   - "Tell us about your past experiences working at (insert company name)"
+
+5. **Questions sur la gestion du temps** :
+   - "How will you manage time between school and work?"
+
+6. **Questions sur l'expérience du candidat** :
+   - "Tell me more about the experience [X] on your resume"
+
+7. **Questions techniques et de finance** :
+   - "They asked me about my internship and previous experience, what economic indicators I used to follow the state of Europe's economy, some finance questions
+Voici une liste des questions qui ont été posées lors des interviews :
+
+1. Quel est l'angle entre la grande aiguille et la petite aiguille à 12:15 ?
+2. Présentez vos projets de recherche. Quelques questions sur la régression linéaire.
+3. - Expériences de marché
+   - Expériences en modélisation
+4. Pourquoi voulez-vous travailler chez Citadel ?
+5. Standard résumé walkthrough; discussion sur des recherches difficiles, motivations; métriques telles que le taux de passage et de fermeture.
+6. Problèmes Leetcode niveau facile-moyen, contenu dans un cours de programmation de première année.
+7. Comment persuader un mauvais joueur de poker ?
+8. Quelque chose au sujet des politiques monétaires.
+9. Que se passe-t-il aux paramètres optimaux d'une régression linéaire si vous donnez les mêmes données deux fois ? Et pour le R² et les z-scores ?
+10. Projets, activités académiques, codes et travail de cours.
+Voici la liste des questions qui ont été posées lors des interviews mentionnées :
+
+1. **Tell me about your research.**
+2. **How to reduce latency in real trading?**
+3. **Some brain teasers.**
+4. **Probability questions.**
+5. **Standard walk me through your resume.**
+6. **How would you source someone?**
+7. **Leetcode style question focusing on math reasoning.**
+8. **High dimensional statistics, focus on intuition of statistics.**
+9. **Continually questioning answers and digging deeper.**
+10. **Self intro; Introduce more of one of your internship experiences.**
+11. **Kelly Criterion.**
+12. **What is going on in the market?**
+13. **Federal Reserve (Fed) questions.**
+14. **Describe your resume.**
+
+Voilà, j'espère que cela vous est utile.
+Voici la liste des questions qui ont été posées lors des interviews :
+
+1. Odd string: Do they belong?
+2. Easy to medium probability questions
+3. Describe your investment process and how you generate investment ideas.
+4. What was the most difficult challenge you've faced in your career?
+5. What are your strengths and why are they your strengths?
+6. 2 Leetcode Mediums were asked.
+7. Describe your favourite statistic concept as if I was five years old.
+8. Why Citadel?
+9. Tell me about a time when you solved a difficult task.
+10. Not at liberty to share a question. (implies a coding question over phone on hacker rank)
+11. Return a minimum length list of squares such that the sum of elements in the list equals a value k.
+
+Cela constitue l'ensemble des questions mentionnées dans les témoignages.
+Voici la liste des questions qui ont été posées lors des interviews selon les témoignages fournis:
+
+1. Questions d'entretien : 
+   - Beaucoup des questions étaient similaires à celles que vous verriez sur quantguide.io (EV, combinatorics, prob theory, brainteasers, stats, etc.).
+
+2. Questions d'entretien : 
+   - Online Assessment avait des questions faciles et de niveau moyen de Leetcode.
+
+3. Questions d'entretien : 
+   - Des questions Hackerrank ont été posées pour l'évaluation en ligne (Online Assessment).
+   - Des questions Leetcode de niveau moyen et facile.
+
+4. Questions d'entretien : 
+   - Dans la première partie, nous avons parlé de nos recherches.
+   - La deuxième partie était une question de probabilité.
+
+5. Questions d'entretien : 
+   - Décrire les expériences de stage ou de projet passées.
+
+6. Questions d'entretien : 
+   - 1. Positive prefixes
+   - 2. GetUniqueCharacter
+
+7. Questions d'entretien :
+   - Où avez-vous acquis votre connaissance financière ?
+Voici la liste des questions posées lors des interviews selon les témoignages que vous avez fournis:
+
+1. En contexte d'Active Directory (AD), qu'est-ce que KCC ?
+2. Problème de somme avec des nombres doubles.
+3. Discussion sur les modèles de tarification utilisés dans le groupe GFI dans l'espace des taux.
+4. Qu'est-ce que le leader m'a inspiré ?
+5. Utiliser la régression linéaire pour modéliser un problème et quelques questions de suivi sur la régression linéaire.
+6. Ils ont demandé votre expérience de projet. Verrouillages dans les systèmes d'exploitation. Questions sur les arbres.
+7. Faites le tour de votre CV.
+8. Quel est votre objectif de carrière à long terme ?
+
+Note : Certaines questions des témoignages fournis mentionnaient des sujets de manière générale sans donner les questions exactes, ces mentions ont été aussi répertoriées lorsque possible.
+Voici la liste des questions posées lors des interviews selon les témoignages :
+
+1. Arrange the numbers from 1 to 5 on a circle randomly. What is the expected number of numbers that are greater than both its neighbors?
+2. How do you generate a 1/4 probability using just coin flips? 1/3 probability? 1/pi probability?
+3. Basic behavioral questions. Also some basic probability questions.
+4. Leetcode medium and behavioral questions.
+5. Leet code style questions of medium difficulty.
+6. How do you sum two numbers where the numbers are streamed left to right?
+7. You need to answer probability questions in very short time.
+8. Leetcode easy BFS problems and design twitter.
+Voici les questions posées lors des entretiens mentionnés dans votre liste de témoignages :
+
+1. **Entretien 1 :**
+   - Question 1: Première question de type Leetcode.
+
+2. **Entretien 2 :**
+   - Question 1: Que faites-vous et pourquoi ce rôle ?
+
+3. **Entretien 3 :**
+   - Question 1: Parlez-moi d'une action que vous aimez.
+
+4. **Entretien 4 :**
+   - Question 1: Problèmes de ML et d'algèbre.
+
+5. **Entretien 5 :**
+   - Question 1: Questions relatives à la programmation dynamique.
+
+6. **Entretien 6 :**
+   - Question 1: Les questions du défi de codage étaient de niveau difficile sur Leetcode.
+
+7. **Entretien 7 :**
+   - Question 1: Toutes les questions portaient sur des problèmes de codage. Aucune autre question posée.
+
+8. **Entretien 8 :**
+   - Question 1: Question facile sur les arbres de Leetcode.
+
+9. **Entretien 9 :**
+   - Question 1: Décrire différentes équipes et demander lesquelles me plaisaient le plus.
+
+Ces questions donnent
+Voici la liste des questions qui ont été posées lors des interviews :
+
+1. Question sur l'algorithme de Dijkstra, suivi d'une question de codage en mode "brain teaser" (casse-tête).
+2. Questions de difficulté moyenne et difficile sur LeetCode (LC).
+3. Comment résoudre efficacement en utilisant l'algorithme de Kadane.
+4. Questions standard de type LeetCode.
+5. Parlez-moi du projet techniquement le plus difficile sur lequel vous avez travaillé.
+6. Supposez que vous deviez modéliser ce processus avec un modèle hiérarchique. Décrivez le processus de génération de données, les prioris que vous utiliseriez, et les avantages et inconvénients de cette approche.
+7. Expliquez la différence entre le tas (heap) et la pile (stack).
+8. Comment profiler les performances d'un logiciel ?
+9. Quelques problèmes de codage tirés de LeetCode (LC) ou HackerRank (HR).
+10. Une série de questions très difficiles.
+11. Questions spécifiques sur les expériences précédentes.
+12. Questions sur la volonté de travailler en personne au bureau de New York.
+13. Questions révélant des connaissances substantives pertinentes pour le poste.
+Voici la liste des questions qui ont été posées lors des interviews :
+
+1. **Please introduce yourself.**
+2. **Do you willing to work in the office?**
+3. **Describe something that makes you want to work for Citadel.**
+4. **Debug code, find time and space complexities, and then a coding challenge.**
+5. **Q: optimal route from home to office (DP)**
+6. **Test cases for buying and selling shares.**
+7. **General probabilities / brain teaser questions.**
+8. **Basic data structures and algorithms questions**
+9. **Coding round and probability rounds**
+10. **Minimum swaps needed**
+11. **Leetcode mediums questions.**
+
+N'hésitez pas à me demander si vous avez besoin d'autres informations ou d'une assistance supplémentaire.
+Voici la liste des questions qui ont été posées dans les différentes interviews :
+
+1. **Design an order book. Bond price to yield calculations.**
+2. **Q: What is the most challenging problem?**
+3. **Code up a program for real-time data processing.**
+4. **Tell me about yourself.**
+5. **Coding question with Python.**
+6. **Dynamic Programming Question on Subset Sum and Back Tracking.**
+7. **Probability, Dynamic Programming, Data Structures.**
+8. **Any challenge you have faced before? Why Citadel?**
+9. **Why do you want to come to Citadel?**
+10. **Q: How do you evaluate the stock trends?**
+Sure, here is the list of questions that were posed during the interviews as described in the testimonials:
+
+1. **Range sum of binary search tree**
+2. **What is a martingale? Describe Black-Scholes.**
+3. **In-depth Python questions. For example, type class in Python.**
+4. **Implement the k nearest neighbour algorithm.**
+5. **Markov Chain Problem**
+6. **Linear Regression Questions with Coderpad Implementation**
+7. **Basic algorithms, clean and readable code is more important than efficiency.**
+8. **Introduce yourself a little bit.**
+9. **Past research experience (reinforcement learning, model explainability).**
+10. **Bias and variance trade-off in random forest.**
+11. **Linear regression closed-form solution (with and without L2 regularization).**
+12. **Describe one project that you are most proud of.**
+13. **What is the time complexity of QR, and what to do if n is too big?**
+
+These questions cover a range of topics including algorithm problems, statistical and machine learning concepts, Python programming, and personal or behavioral questions.
+Voici la liste des questions qui ont été posées lors des interviews mentionnées dans ton témoignage :
+
+1. **HackerRank questions** :
+   - Question 1 : Non spécifiée (2 questions de niveau moyen/difficile).
+  
+2. **Phone Screen - New Grad Role** :
+   - Question 1 : Parler des projets de votre CV.
+   - Question 2 : Implémenter une classe.
+   - Question 3 : Optimiser la classe implémentée.
+  
+3. **Deux entretiens consécutifs** :
+   - Question 1 : Parler des recherches/expériences (20 minutes).
+   - Question 2 : Résoudre un problème de codage (25 minutes).
+   - Question 3 : Session de questions-réponses courtes (5 minutes).
+
+4. **Culture d'entreprise** :
+   - Question 1 : Algorithmes et conception de systèmes.
+
+5. **Entretien technique et conversationnel** :
+   - Question 1 : Comment créer un algorithme de machine learning utilisant des données Twitter pour générer une stratégie de trading.
+
+6. **Processus d'entretien** :
+   - Question 1 : Non spécifiée (l'interviewé n'est pas autorisé à divulguer
+Bien sûr, voici la liste des questions d'entretien mentionnées dans les témoignages :
+
+1. **Linear regression, Two envelop problem**
+2. **Sort a matrix by the diagonals**
+3. **Basic data structures and algorithms**
+4. **Give a time where you were pulled in a lot of different directions and how did you handle it**
+5. **They only asked about my previous experience. No follow up questions were asked.**
+6. **The first and last question is classic ball weighting. The second one is how many intersections of the diagonal line of a rectangle with unit squares (integer width a, length b)**
+7. **Global Maximum; Profit target (2 sum)**
+8. **What experience you have? How detail orientation are you?**
+9. **Implement the native map function for arrays**
+
+Ces questions couvrent divers domaines tels que les mathématiques, le codage, les algorithmes, la gestion du temps et les compétences professionnelles.
+Voici la liste des questions posées selon les témoignages d'interviews mentionnés :
+
+1. **Disk Space Analysis**
+2. **Prime Factor Visitation**
+3. **A difficult leetcode problem**
+4. **how would you go about doing xyz**
+5. **String, Long, Integer array question**
+6. **Normal distribution question, estimate pi geometrically question**
+7. **Given a list of integers, find the number of distinct pairs that sum to a target value with time limits**
+8. **Analyze the variance of the momentum trading strategy**
+9. **Find if a point is inside a triangle**
+10. **Given a set of numbers [a, b, c, d, e] and t, find number of triplets of the set that add up to t or less**
+
+Ces questions couvrent une variété de sujets allant des problèmes algorithmiques courants aux questions mathématiques et de probabilité.
+Voici la liste des questions qui ont été posées dans les témoignages d'interviews:
+
+1. Option question, how to build a long vega and short gamma position.
+2. Signed non-disclosure, cannot discuss.
+3. What are your greatest strength and weakness?
+4. What are you currently doing?
+5. Brain teasers, diligence and pitch a stock.
+6. The first question involved range caching, and the other was just a simple dynamic programming question.
+7. Segment tree with lazy propagation and coordinate compression.
+8. Pitch me a stock and how you would hedge the risk.
+9. Where do you see yourself in five years?
+
+
+Voici la liste des questions qui ont été posées dans les différents témoignages d'interviews :
+
+1. **Entretien 1 :**
+   - Comment construire un estimateur pour le problème des chars allemands ?
+   - Calculer la moyenne et l'écart type.
+
+2. **Entretien 2 :**
+   - Pourquoi voulez-vous travailler ici ?
+
+3. **Entretien 3 :**
+   - Trouver les points à l'intérieur d'un triangle.
+   - Trouver le nombre de paires (en choisissant seulement 2) de moments dans une liste qui s'additionnent à 60.
+
+4. **Entretien 4 :**
+   - Beaucoup de casse-têtes en statistiques et probabilités, codage minimal.
+
+5. **Entretien 5 :**
+   - Questions principalement sur l'ajustement comportemental et culturel.
+   - Questions sur le contrôle optimal, l'expérience en codage, le modèle de facteur.
+
+6. **Entretien 6 :**
+   - Parlez-moi de vous (suivi de détails sur vos projets).
+   - Que se passe-t-il si vous initialisez les poids d'un réseau de neurones à zéro ?
+   - Que se passe-t-il pour les estimateurs de la régression lin
+Voici la liste des questions d'entretien mentionnées dans les témoignages :
+
+1. Questions d'entretien :  
+   Question 1: Said couldn't judge my skill set without seeing code from clients. I have 10 years experience
+
+2. Questions d'entretien :  
+   Question 1: Previous and recent projects / researches
+
+3. Questions d'entretien :  
+   Question 1: Typical Hackerrank and Leetcode type question
+
+4. Questions d'entretien :  
+   Question 1: online test, math, programming, etc
+
+5. Questions d'entretien :  
+   Question 1: What’s the biggest accomplishment I had in life
+
+6. Questions d'entretien :  
+   Question 1: DP, Backtracking, and Bit Manipulation.
+
+7. Questions d'entretien :  
+   Question 1: expected value involving dice question
+
+8. Questions d'entretien :  
+   Question 1: Why did you apply for this position?
+
+9. Questions d'entretien :  
+   Question 1: Dfs question for phone screen. Matrix and other dfs questions for the virtual on site.
+
+10. Questions d'entretien :  
+    Question 1: You have an url endpoint that gets an array of things to-do. Create a simple application that displays a to-do list from
+Voici la liste des questions posées dans les interviews mentionnées :
+
+1. **Interview Technique / Test HackerRank :**
+
+    - Question : Signé un NDA. Style Leetcode medium/hard bien que non issues de Leetcode.
+
+2. **Entretien pour NXT Program à NYC :**
+
+    - Question : Questions typiques sur le temps d'exécution et la complexité spatiale. Comparer ces captures d'écran de code et choisir celle qui correspond à une liste de spécifications.
+
+3. **Entretien avec un recruteur après avoir été remarqué :**
+
+    - Question : Parlez d'un projet dont vous êtes fier.
+
+4. **Entretien technique :**
+
+    - Question : Fonctions virtuelles en C++, concevoir un tampon circulaire (en n'importe quel langage).
+
+5. **Entretien sur les idées boursières et la construction de portefeuilles :**
+
+    - Question : Parlez-moi d'une action que vous aimez et d'une action que vous vendriez à découvert aujourd'hui.
+
+6. **Entretien technique sur la probabilité, les statistiques et le codage :**
+
+    - Question : Beaucoup de questions concernant la probabilité, les statistiques et le codage.
+
+7. **Entretien sur les chaînes de
+Voici la liste des questions qui ont été posées lors des interviews mentionnées :
+
+1. **Algorithm and Data Structures Questions:**
+   - Basic algorithm and data structure questions.
+   - Implement a specific piece of code.
+
+2. **Coding Challenge on HackerRank:**
+   - A quick way to factor prime numbers as part of the coding challenge.
+
+3. **Macro Environment:**
+   - Future thoughts on the macro environment.
+
+4. **Technical and Coding Questions:**
+   - Sample points randomly from a unit sphere. How do you get uniform variables?
+   - What is the variance of each of these uniform variables?
+
+5. **C++ Theory and Coding:**
+   - Difference between map and a list.
+  
+6. **Algorithms Question:**
+   - Forget exact prompt.
+
+7. **Market Making and Estimation Questions:**
+   - Some generic market making and estimation of fractions and probability stuff.
+
+8. **Algorithm Variants:**
+   - Variation of the quickselect algorithm.
+
+9. **Personalized Experience Questions:**
+   - Very personalized to your experience.
+
+Il semble y avoir un thème récurrent de questions sur les structures de données, les algorithmes, la programmation, et des scénarios spécifiques liés au domaine de travail des candidats (comme le
+Voici la liste des questions posées lors des interviews mentionnées :
+
+1. **Fonction et optimisation**
+   - **Question :** What is the runtime of this function that you just coded? How can you make it better?
+
+2. **Motivation**
+   - **Question :** Why do you want to work here?
+
+3. **Programmation K nearest neighbour**
+   - **Question :** Implement K nearest neighbour.
+
+4. **Faiblesse personnelle**
+   - **Question :** What would you say is your greatest weakness?
+
+5. **Mathématiques et probabilité**
+   - **Question 1 :** Integrate xlogx.
+   - **Question 2 :** Put the numbers 1~1000 around a circle in order. Start at 1, you delete the number 1, 3, 5, ... and carry on this pattern of deleting numbers alternatively until there's only one number left. Determine that number.
+
+6. **Leetcode difficiles**
+   - **Question :** Difficult leetcode problems, but certainly doable.
+
+7. **Expérience et fondamentaux techniques**
+   - **Question :** Mostly about experience and technical question on fundamentals.
+
+8. **Algorithme de trading**
+   - **Question 1 :
+Voici la liste des questions qui ont été posées lors des interviews mentionnées :
+
+1. Leetcode problem (difficulty: hard)
+2. How would you set state with a nested object
+3. Cannot disclose and cannot remember
+4. Suppose there are 10 lions and a meat. If anyone of the lions eats the meat, she falls asleep. While she is sleeping, any other lion can eat her and also fall asleep. And so on. The question is, what will happen at the beginning? Will any lion eat the meat?
+5. Leetcode Medium-Hard plus What does Citadel do?
+6. Linear regression. Probability stuff normal distributions.
+7. Order book matching algorithm
+8. Classic buy/Sell stock algorithm, coins brainteasers
+9. Reverse a linked-list in place. 
+10. I do not remember the questions.
+Voici une liste des questions qui ont été posées lors des interviews mentionnées :
+
+1. Leetcode medium to hard questions (HackerRank).
+2. Can you go through your resume ?
+3. mostly open-ended Machine Learning questions + some simple math programming questions.
+4. given a sorted array of integers can you find two numbers such that A + B = target integer.
+5. How would you value a bakery ?
+6. Gambler ruin problem, Dynamic programming (live coding).
+7. Do you have any questions for me ?
+
+Ces questions sont issues des différents témoignages d'interviews que vous avez fournis.
+Voici la liste des questions d'entretien qui ont été posées :
+
+1. What is your investment process?
+2. Check sample questions on HackerRank, it would be very useful.
+3. Walk me through your CV.
+4. There were 2 HackerRank Hard Questions.
+5. Probability, statistics, and linear regression.
+6. Technical interview, questions are confidential.
+7. Typical technical questions and some transformation resume.
+8. Why do you have a gap in your resume?
+9. There were two Leetcode medium questions in 70 minutes.
+Voici la liste des questions qui ont été posées dans les interviews mentionnés :
+
+1. Question 1 : Unclassic probability, traditional programming. More like brain teaser.
+2. Question 1 : Calculate the probability of a specific event happening, which is related to a binomial distribution.
+3. Question 1 : Write a chess engine from scratch in 45 minutes that can detect check, checkmate, and has all the pieces.
+4. Question 1 : What is your ideal workday? Teach me something you don’t think I know how to do. What interests you about the public markets?
+5. Question 1 : Describe an algorithm for calculating the square root of x.
+6. Question 1 : Binary search tree validation. String to int conversion.
+7. Question 1 : File parsing coding problem with multiple files.
+8. Question 1 : The questions were algorithm and data structure based.
+9. Question 1 : Implementation of the thing from C++ std.
+10. Question 1 : One medium leetcode tagged question. 
+
+Chaque interview semble abordé divers aspects techniques et comportementaux, allant des algorithmes et structures de données aux questions de probabilités et de programmation méritant une réflexion approfondie.
+Voici la liste des questions qui ont été posées lors des interviews mentionnées :
+
+1. Pitch me a company that you know well.
+2. Basic data structures and resume walkthrough.
+3. Leetcode medium coding question. Matrix related.
+4. Lock combination BFS problem.
+5. Find files in a file system DFS problem.
+6. Process a list of stock orders efficiently.
+7. Statistics and probability, linear regression etc.
+8. 2 medium leetcodes for online test. Common problems.
+9. BS model derivation, stochastic process.
+
+Ces questions couvrent divers aspects techniques et comportementaux, allant des structures de données et algorithmes à des questions plus spécifiques liées aux modèles stochastiques et exigeant des connaissances en probabilités et statistiques.
+**Liste des questions posées lors des entretiens :**
+
+1. **Entretien technique sur téléphone :**
+   - Une question classée difficile sur Leetcode.
+
+2. **Entretien en présentiel :**
+   - Une carte 2D contenant des '1' (terre) et '0' (eau) est donnée. Comptez le nombre d'îles. Une île est entourée d'eau et est formée par la connexion des terres adjacentes horizontalement ou verticalement. Vous pouvez supposer que les quatre bords de la grille sont tous entourés d'eau.
+
+3. **Entretien pour Quantitative Researcher :**
+   - Questions régulières de régression, probabilité et questions de niveau moyen sur Leetcode.
+
+4. **Entretien pour Quantitative Research Intern :**
+   - Comment modéliseriez-vous cela en utilisant une approche hiérarchique ? Quels sont les avantages d'utiliser une préconisation hiérarchique dans ce cas ?
+
+5. **Entretien pour QR :**
+   - Classique question d'un dé. 
+   - Delta hedge PNL.
+   - Que faire si le R carré est négatif ?
+   - Résoudre avec Python : calculer la valeur attendue d'un
+Voici la liste des questions qui ont été posées lors des interviews :
+
+1. **Très conversationnel, questions sur les compétences, les intérêts, pourquoi FP&A** (Very conversational, asked about skills interests, why FP&A)
+2. **Questions impliquant des matrices et des fenêtres coulissantes** (Involves matrices and sliding windows)
+3. **Question sur l'achat ou la vente d'actions** (Buy or sell stocks question)
+4. **Quelle est la valeur attendue de 2 dés ?** (What is expected value of 2 dice?)
+5. **Pourquoi la finance quantitative, pourquoi Citadel ?** (Why quant finance, why Citadel)
+6. **Manipulation de tableaux, questions sur des algorithmes simples** (Array manipulation, simple algorithm questions)
+7. **Question sur la programmation dynamique** (A question about dynamic programming)
+8. **Statistiques, apprentissage automatique, pourquoi la recherche quantitative et la finance en particulier, et projets passés** (Statistics, machine learning, why quant research and finance in particular and past projects)
+9. **Parlez-moi de votre parcours** (Tell me about your background)
+10. **Casses-têtes et questions sur l'expérience** (Brain Teasers and questions
+Voici la liste des questions qui ont été posées lors des interviews :
+
+1. Hardware cache map vs unordered map
+2. Probability, A bit of coding
+3. Why do you deserve to be hired by the company?
+4. What is your greatest weakness?
+5. Implement code for a binary tree
+6. Resume everything from resume, it was pretty average
+7. How would you measure the distance from the Earth to the moon?
+8. How would you model Brownian motion?
+9. How do you simulate an unfair coin with a fair coin?
+10. Array problems, not very hard
+11. Asked about system design questions as well as concurrency
+12. The interview was a bunch of very basic statistics and logical games.
+Voici la liste des questions posées lors des interviews mentionnées :
+
+1. **Graph question based on DFS**
+2. **Stuff from resume. Balance parentheses**
+3. **Coding problems: In-place array manipulation, rotated sorted array, longest substring no duplicate chars**
+4. **Provide an example of something you are proud of in your current role**
+5. **IPO and Throttling Gateway, medium level questions**
+6. **It was challenging. I was not expecting to see that kind of question as a software developer**
+7. **2 programming questions, Candidate has the choice to select the programming language of their preference**
+
+Il semble que plusieurs entretiens aient été centrés sur des problèmes de codage, ainsi que sur des questions comportementales et techniques basées sur le CV.
+Voici la liste des questions d'entretien qui ont été posées dans les témoignages fournis :
+
+1. **Réponse d'un premier candidat** :
+   - Question 1: Answer these two coding questions on Hackerrank in seventy minutes.
+
+2. **Réponse d'un second candidat** :
+   - Question 1: One question was about throttle gateway and the other was about matrix summation. Both are leetcode medium level.
+
+3. **Réponse d'un troisième candidat** :
+   - Question 1: In C++ would you prefer to store pointers or references in a vector.
+
+4. **Réponse d'un quatrième candidat** :
+   - Question 1: Tell me about yourself.
+Voici une liste des questions posées lors des différentes interviews mentionnées :
+
+1. **Just basic modern ES6 questions**
+   
+2. **Describe a time difficult problem that you had to solve in your career. How did you approach this?**
+   
+3. **A tough problem taken out of Gayle Laakman book**
+   
+4. **Tell me about yourself. Why do you think you are a good fit?**
+   
+5. **What made you want to apply here?**
+   
+6. **Basic algorithmic question and some questions about my CV.**
+   
+7. **Why Citadel?**
+   
+8. **Describe your research paper.**
+   
+9. **Tell me about yourself.**
+   
+10. **Why do you choose to do finance?**
+   
+11. **Multi-threaded question related to stock market and stock engine.**
+   
+12. **Maximum Size Subarray Sum Equals k.**
+   
+13. **Valid palindrome.**
+   
+14. **Different Ways to Add Parentheses.**
+   
+15. **Behavior questions.**
+
+Ces questions couvrent à la fois des aspects techniques et comportementaux, en fonction du rôle pour lequel le candidat a été interviewé.
+Voici la liste des questions posées lors des différentes interviews mentionnées :
+
+1. Asked to develop a redux implementation in JavaScript
+2. How would you map a function across multiple machines?
+3. Maze problem involving a matrix and recursion
+4. Traditional quant questions and probability questions
+5. Nothing abnormal in terms of interviews. Just normal questions.
+6. 3-4 brain teaser stats question + 3-4 options questions
+7. It is all about how to handle a string
+8. White board coding: malloc and free, single-producer single consumer message queue, multi-thread implementation of calculating average of numbers from many files in parallel, and some relatively easy algorithm questions
+9. Describe your trading strategy in today's market?
+
+Si vous avez besoin de plus de détails ou d'une clarification sur un point spécifique, n'hésitez pas à demander.
+Voici la liste des questions qui ont été posées lors des interviews mentionnées :
+
+1. **Technical interview with current Quants**
+   - Question related to the resume
+   - Brainteaser question
+
+2. **Went to the headquarter in London**
+   - Some basic questions about linear algebra, statistics, and python programming.
+
+3. **Phone interview**
+   - The interviewer asked questions about statistics and programming, including a probability question about rolling a dice and an algorithm for when to buy and sell.
+
+4. **Operational research interview at Citadel, Chicago**
+   - Operational research: linear optimization.
+
+5. **Discussion with HR followed by assignment**
+   - Develop an investment strategy starting from a multitude of data.
+
+6. **1 phone interview, 1 onsite interview**
+   - Print a MxN matrix in spiral.
+
+7. **Interview process discussing career history and industry knowledge**
+   - They give you a rigorous psychological exam.
+
+8. **30 minute in-person interview with senior analyst**
+   - What is your process for generating new investment ideas?
+
+9. **Technical interview**
+   - How do you reverse a string using Python?
+
+10. **Basic phone interview followed by in-person interviews**
+    - Explain various products.
+
+Ces questions couvrent divers domaines techniques
+Voici la liste des questions posées lors des interviews :
+
+1. **Question 1:** Given the probability of coin head is p. What is the expected number to get three heads in a row?
+
+2. **Question 1:** What is the most efficient way to sample a 2D random distribution from two 1D random number generators?
+
+3. **Question 1:** Valuation thought exercise 
+
+4. **Question 1:** Brainteasers
+
+5. **Question 1:** Regression or algorithms in C or R
+
+6. **Question 1:** Implement Hashtable, dealing with hashing collision, using probing 
+
+7. **Question 1:** Lock free queue, bound queue, and virtual memory 
+
+8. **Question 1:** Nothing too difficult.
+
+9. **Question 1:** Given a matrix of size N by T, the i-th row and j-th column is the price of buying i shares of a stock at time j. Ask what's the minimum cost of buying in total N shares at the end of time T.
+
+10. **Question 1:** Please tell me about yourself.
+Voici la liste des questions d'entretien tirées des témoignages :
+
+1. Data structure of dictionary
+2. Given a vector of edges (e.g., A-B, A-C, C-D), write a function to determine if this is a tree, and if so, return the root.
+3. Who cares....even if you solve everything they won't select you until you're a PhD. 
+4. How to reverse a string, construct a matrix.
+5. Describe research projects (job market paper); describe intern experience in detail.
+6. The impact of multicollinearity, imbalance data, and missing values on the performance of the regression model. Derivation of some equations.
+7. Explain why the vol smile exists.
+8. How to reverse a linked list.
+9. What type of projects have you worked on? (two questions total)
+10. Can you handle working in a performance-based culture?
+
+Certaines réponses et expériences personnelles sont également mentionnées dans les témoignages, mais les questions directes posées lors des entretiens sont celles énumérées ci-dessus.
+Voici une liste des questions qui ont été posées lors des entrevues mentionnées :
+
+1. Comment calculer la racine carrée avec un certain nombre de chiffres ?
+2. Transformer un nombre en toutes les chaînes de caractères possibles, c'est un problème de recherche.
+3. Questions sur la valeur attendue du lancer de pièce avec des contraintes ajoutées (par exemple, avec l'option de relancer).
+4. Comment restez-vous organisé ?
+5. Implémenter des structures de données concurrentes de base en C++.
+6. Questions de conception et certaines analyses pour la construction d'un pipeline de données à haut débit.
+7. Revue de code C++ spécifique, questions spécifiques sur les paradigmes de langage (CRTP, structures STL, etc.).
+8. Parlez-moi de votre rôle actuel.
+9. L1 et L2 régularisation.
+10. Outils à utiliser pour vérifier les fichiers ouverts par le processus.
+11. Question sur l'architecture du serveur.
+12. Conception orientée objet en Python, implémenter un defaultdict.
+
+Si vous avez besoin de détails supplémentaires sur l'un des processus d'entrevue ou sur les réponses données, n'hésitez pas à demander !
+Voici la liste des questions posées lors des interviews :
+
+1. Construct an acyclic graph from a list of edges and write a BFS.
+2. Why Citadel? (then data structure and algorithms)
+3. How are priority queues made, how to determine identical binary trees, find missing numbers, find duplicates?
+4. Can you name a time you had any conflict within any of your jobs?
+5. What is a martingale? (Correlation matrix)
+6. What is the data structure of dictionary in Python?
+7. What is VLOOKUP in Excel?
+
+Ces questions couvrent un large éventail de sujets, y compris des questions techniques spécifiques aux structures de données et algorithmes, ainsi que des questions d'expérience et comportementales.
+Voici la liste des questions d'entretien posées dans les témoignages suivants :
+
+1. **Entretien de recrutement :**
+   - Question 1: recruiting process, reqs worked on, hiring manager relationship
+
+2. **Entretien technique avec des questions de finance et de codage :**
+   - Question 1: The shooting star question was the easiest out of everything they asked.
+   - Question 2: Binomial pricing as well.
+
+3. **Entretien avec un aspect technique pour un stage en 2019 :**
+   - Question 1: Implement a calculator
+
+4. **Entretien technique pour un poste chez Citadel :**
+   - Question 1: Three Questions in the Coding Challenge
+   - Question 2: 1 in the Phone Screen
+   - Question 3: Interviews with 3 engineers during the onsite.
+
+5. **Entretien sur le risque d'un portefeuille d'actions :**
+   - Question 1: How would you measure the risk of an equity portfolio.
+
+6. **Entretien avec questions techniques de probabilité :**
+   - Question 1: Easy probability question found in quant book and Glassdoor.
+
+7. **Entretien typique de codage :**
+   - Question 1: introduce yourself
+Voici la liste des questions posées durant les différentes entrevues selon les témoignages :
+
+1. Vous disposez de deux cordes qui, lorsqu'elles sont allumées, brûlent en une heure. Laquelle des durées suivantes NE PEUT PAS être mesurée ? a) 50 min b) 30 min c) 25 min d) 35 min. 
+   
+2. Écrivez un programme pour trouver la racine carrée d'un nombre.
+   
+3. Expériences passées, stratégies de trading, PNL, projection future de PNL.
+
+4. Donnée une matrice et les coordonnées en haut à gauche et en bas à droite, calculez la somme de la sous-matrice en 1. temps linéaire et 2. temps constant. Vous pouvez pré-traiter.
+   
+5. Régularisation de Ridge.
+   
+6. Vecteur de volatilité et matrice de corrélation et poids de portefeuille donnés. Calculez la matrice des covariances. Calculez le risque du portefeuille. Limite inférieure et supérieure pour toutes les options d'investissement.
+   
+7. Inversez une liste chaînée.
+   
+8. Quelle est la probabilité de
+Voici la liste des questions qui ont été posées lors des entretiens mentionnés dans votre témoignage :
+
+1. Quelle est la probabilité de choisir 2 cartes de carreau et une autre carte qui n'est pas un carreau dans un jeu de cartes ?
+2. Quelle a été la chose la plus précieuse que vous avez apprise dans votre poste actuel et comment pensez-vous que cela vous aiderait dans un rôle de relations avec les investisseurs ?
+3. Régéssion linéaire ; permutation d'une liste ; comment convertir une variable aléatoire uniforme en une variable aléatoire normale.
+4. Théorie de la probabilité brainteaser, questions générales sur les marchés des commodities, questions de base sur les algorithmes de codage, questions de statistiques.
+5. Comment percevez-vous les schémas d'investissement actifs vs passifs ?
+6. Êtes-vous intéressé par Citadel ?
+7. Supposons que j'ai deux crêpes, l'une avec deux côtés brûlés, l'autre avec un côté brûlé et un côté non brûlé. Je choisis l'une de ces crêpes au hasard, puis regarde l'un de ses côtés, choisi au hasard. Il est brûlé. Quelle est la prob
+Voici la liste des questions posées lors des entretiens :
+
+1. Pourquoi utiliser ce modèle ? (Questions sur la régression linéaire)
+2. Implémentez la fonction two sum.
+3. Questions en Python plus questions de logique.
+4. Trouvez tous les nombres premiers inférieurs à n.
+5. Qu'est-ce que la covariance ?
+6. Qu'est-ce que la corrélation ? Qu'est-ce que la covariance ?
+7. En quoi consiste la corrélation positive sur un graphique ?
+8. Expliquez la conception d'un projet sur lequel vous avez travaillé.
+9. Parlez-moi de votre dernier projet statistique.
+10. Algorithmes, tri, régression médiane, même certaines notions de théorie de la mesure.
+11. Quels sont les composants requis pour un algorithme VWAP ?
+12. Trouvez le médian.
+Voici la liste des questions qui ont été posées lors des interviews :
+
+1. Pourquoi voulez-vous travailler chez Citadel ?
+2. Créez une classe de liste chaînée.
+3. Algorithmes, structures de données et SQL sur tableau blanc.
+4. Pourquoi le SVM surpasse-t-il les autres classificateurs ?
+5. Complexité de l'algorithme.
+6. Parcourez votre CV et vos projets passés.
+7. Neuf pièces de monnaie équitables sont lancées, quelle est la probabilité qu'un nombre impair de faces tombent ?
+8. Que dit le niveau actuel des réserves de gaz par rapport à la moyenne sur 5 ans sur la façon dont l'écart X-V va se négocier (X-V spread) ?
+9. Parlez-nous d'une fois où vous avez échoué.
+10. Questions sur la compréhension des marchés financiers et des instruments financiers. Par exemple, questions sur la façon dont les appels d’offres pour actions d'entreprise sont traités.
+Voici la liste des questions qui ont été posées lors des interviews décrites dans votre témoignage :
+
+1. **HR Screening behavior interview:**
+   - [Question 1] Parlez-nous de votre CV, des concepts financiers, et casse-tête.
+
+2. **Deuxième témoignage:**
+   - [Question 1] Ils ont beaucoup demandé sur mes objectifs futurs.
+
+3. **Troisième témoignage:**
+   - [Question 1] Rien d'intéressant : convertir un int en string sans fonction de bibliothèque, traverser une matrice en spirale, d'autres choses pour lesquelles on utiliserait des méthodes de bibliothèque.
+
+4. **Quatrième témoignage:**
+   - [Question 1] Un jeu de cartes.
+
+5. **Cinquième témoignage:**
+   - [Question 1] Parlez-nous de votre expérience en mise en œuvre de technologies.
+
+6. **Sixième témoignage:**
+   - [Question 1] C'était un problème d'optimisation. Nécessitait une bonne révision du calcul et de l'algèbre matricielle (valeurs et vecteurs propres, etc.).
+
+Chaque question correspond à une situation ou test demandé durant les entretiens tels que décrits par les témoignages
+Voici la liste des questions posées lors des interviews selon les témoignages :
+
+1. Write a C++ class for ring buffer.
+2. Explain the entire process of internet form typing URL and getting back response.
+3. Answer questions related to redundancy (Spanning tree).
+4. Answer questions about OSPF (Open Shortest Path First).
+5. Answer questions about EIGRP (Enhanced Interior Gateway Routing Protocol).
+6. How to in-place reverse string?
+7. Coding test similar to LeetCode problems based on basic math, linear algebra, and probability methods.
+8. Explain the deadlock condition.
+9. Show detailed knowledge of a specialist JavaScript library.
+10. Write the code for a producer/consumer problem.
+11. Would you long or short this stock? How would you construct the trade?
+12. Convert the integer to the string.
+13. Resume evaluation. 
+
+Ces questions couvrent de nombreux sujets techniques allant de la programmation, des réseaux, à l'investissement financier et à la gestion de processus.
+Voici la liste des questions qui ont été posées lors des interviews :
+
+1. How would you diffuse an angry person?
+2. Asked about resume specifics, experience with various technical things listed on resume.
+3. Graph traversal stuff.
+4. You have a worker and a gold bar. The worker will work for you for 15 days. He must have x/15 of the gold bar after the xth day of work. What is the minimum number of cuts of the gold bar you need to make to pay the worker?
+5. Which would you use XYZ algorithm or ABC algorithm on a dataset like this?
+6. You have such a strong academic background, why don't you go to academia and become a professor?
+7. How to search in a heap.
+8. What programming languages do you use most?
+9. Did you get a return offer? What offers do you have now?
+10. Tell me a joke.
+11. Many statistics problems and machine learning problems.
+12. Briefly talked about my resume, then I was asked about some questions related to my previous research. In the end, I was asked to write a code to calculate variance using Python.
+Voici une liste des questions qui ont été posées lors des différentes interviews mentionnées dans les témoignages :
+
+1. **Question sur le jeu de hasard :**
+   - What is the expected payoff of <insert some gambling game>?
+
+2. **Hackerrank test :**
+   - Print Roman number equivalent for numbers 1-1000.
+   - Order a list of words appearing in a file by number of letters but maintain original order ("stable sorting") of words with same length.
+   - Implement a stack class with methods to do some specific operations mentioned in the question.
+
+3. **Phone/Codepad interview :**
+   - Given a series of prices, find the one buy/sell trade pair which gives the maximum profit.
+   - For the same prices, find the maximum profit possible with any number of buy/sell allowed (at each step/price, you can buy, sell or do nothing, no short sell allowed).
+
+4. **Questions statistiques difficiles :**
+   - Very difficult statistical questions on regression and related topics.
+
+5. **Questions sur statistiques et probabilité :**
+   - Some basic statistics and probability questions.
+   - A couple general questions about machine learning methods.
+
+6. **Questions de programmation et de théorie des probabilités :**
+  
+Voici la liste des questions qui ont été posées dans les différents témoignages d'interviews :
+
+1. **Phone call interview:**
+   - Pouvez-vous parler de votre CV ?
+   - Probabilités
+   - Problèmes de régression linéaire
+   - Casse-têtes
+   - Codage (Python)
+
+2. **Quiz pour Research Assistant:**
+   - Interprétez la matrice de covariance dans le contexte suivant.
+
+3. **Entretien chez Citadel (Houston, TX):**
+   - Que préférez-vous ? index match ou vlookup ?
+
+4. **Entretien en ligne et sur le campus:**
+   - Pourquoi la régularisation est-elle importante (par exemple, pourquoi la régression ridge/lasso comparée à l'OLS) même lorsque le nombre d'échantillons est supérieur au nombre de paramètres ?
+  
+5. **Deux tours d'entretiens téléphoniques chez Citadel (Chicago, IL):**
+   - Parlez de vos recherches et de votre expérience de stage.
+   - Programmation en C++
+   - Basique en régression linéaire/régression LASSO/ridge
+   - Qu'est-ce que les fonctions virtuelles en C++ ? Comment les utiliser ?
+
+
+Voici la liste des questions posées lors des entretiens :
+
+1. How much experience do you have about trading?
+2. Find the maximum amount of money you can make if you buy and sell stocks once in an array.
+3. What is a 'short'? What is a 'put'? What is a hedge fund? How much of C++11 have you used?
+4. Verilog function to find first index of 1 in a bit vector.
+5. What is your investment process and how do you gain conviction around a name?
+6. Have you worked with data vendors before?
+7. Each algorithm and data structure question.
+8. What types of authentication products are you familiar with?
+9. Wanted to know names I previously covered and trade examples.
+Voici la liste des questions qui ont été posées dans les différentes interviews :
+
+1. Questions sur la théorie de l'information, qu'est-ce que l'entropie, signification du bit.
+2. Décrivez brièvement votre parcours.
+3. Walk me through a current Long investment idea, (suivi par des questions et réponses sur l'idée).
+4. Quelle est la différence entre la régression de y sur x et la régression de x sur y ?
+5. Questions statistiques sur des marches aléatoires (random walks).
+6. Questions comportementales : Comment prioriseriez-vous le travail ?
+7. Écrivez un programme et affichez tous les nombres premiers inférieurs à un entier N.
+8. Parlez-moi de votre CV (Walk me through your resume).
+9. Pourquoi ce travail ? Qu'appréciez-vous à propos de cette entreprise ?
+10. Que savez-vous à propos de l'entreprise ?
+11. Décrivez comment vous avez construit un système dans votre passé.
+
+N'hésitez pas si vous avez besoin d'aide supplémentaire !
+Voici une liste des questions qui ont été posées lors des interviews :
+
+1. Comment implémenter des structures de données ? 
+2. Expliquez comment fonctionne la JVM de Java, notamment la collecte des ordures (garbage collection) et les pools de threads. 
+3. Pourquoi avez-vous choisi cette implémentation ? 
+4. Pourquoi Citadel/ce rôle ?
+5. Pourquoi Citadel ? Pourquoi un fonds spéculatif ?
+6. Les grecs du trading.
+7. Quelle est la différence entre UDP et TCP ?
+8. Quelle est la différence entre les réseaux récurrents et les réseaux convolutionnels ?
+9. Qu'est-ce qu'une rvalue et une lvalue en C++ ?
+10. Concepts de la programmation orientée objet en C++.
+11. Test de codage en Python.
+12. Trouver le minimum de \( x^x \).
+13. Qu'appréciez-vous le plus dans la recherche ?
+14. Comment déterminer un outlier ?
+15. Comment construire un modèle de facteurs de capitaux propres ?
+16. Régression linéaire, normalité des rendements réels (journaliers vs mensuels) des actions, algorithmes de tri.
+Voici la liste des questions qui ont été posées lors des interviews mentionnées :
+
+1. Brainteasers
+2. Describe boosting algorithm
+3. You are tossing a fair coin. What is the expected amount of tosses until you get two heads in the row?
+4. How many subnets with a mask of 28 can fit into a network with a mask of 24?
+5. Find the maximum sum path in a pyramid.
+6. Standard questions about data structures and algorithms
+7. I randomly pick a number from 1 to 100, how would you guess? What if you have prior knowledge that I pick a number that is hard to guess such as near 1 or 100?
+8. What regression methods do you use?
+9. Facing a certain scenario of stocks, how to come up with a trading strategy?
+10. You are holding two eggs in a 100-story building. If an egg is thrown out of the window, it will not break if the floor number is less than X, and it will always break if the floor number is equal to or greater than X. What strategy would you use to determine X with the minimum number of drops in a worst case scenario?
+Voici la liste des questions posées lors des interviews :
+
+1. **FPGA Engineer:**
+   - Two data lines with same numbered packets arriving in order but not synchronized. Make sure you only send the packet once and discard the latest same packet to arrive.
+
+2. **Quantitative Researcher (Singapour):**
+   - What will the probability of an option ending up in the money change if the volatility of the underlying stock increases?
+
+3. **Software Engineer (Chicago, IL):**
+   - Based on the populations of a list of countries, play market making games with the interviewer.
+
+4. **Machine Learning and Algorithms:**
+   - What sorting algorithms do you know? Advantages of each?
+
+5. **General Quant Interview:**
+   - Resume, basic dice questions, market.
+
+6. **Personal Projects/Research Interview:**
+   - All probability and statistics. Mostly fundamentals but some advanced topics.
+
+7. **Math and CS Interview:**
+   - Could you go through your resume?
+
+8. **Java Code Sample Interview:**
+   - What do you want to know about Citadel? Do you have any questions?
+
+9. **Long and Detailed Process Interview:**
+   - Challenge of coming back to work at a firm I had already been a part
+Voici la liste des questions qui ont été posées lors des entrevues mentionnées dans votre témoignage:
+
+1. Pouvez-vous nous donner votre parcours professionnel?
+2. Quelle est la différence entre un itérateur et un générateur?
+3. Étant donné une série de points de temps optimaux d'achat/vente sur différents horizons temporels (par exemple 1 semaine, 2 semaines, 1 mois, 1 an, 2 ans...), quel est le point de temps optimal d'achat/vente sur un nouvel horizon temporel, par exemple 1,5 ans?
+4. Pourquoi pensez-vous être un bon candidat pour Citadel?
+5. Comment résoudriez-vous ce problème? (Problématiques/scénarios techniques)
+6. Pouvez-vous expliquer un moment où... (Type scénario comportemental)
+7. Pourquoi voulez-vous quitter votre poste et employeur actuels?
+8. Comment s'est passé votre dernière évaluation de performance chez votre employeur actuel? Quelles ont été les observations? Y a-t-il eu des remarques négatives?
+9. Les gens qui réussissent chez Citadel recherchent toujours du travail. Êtes-vous une telle personne?
+10. Écrivez une fonction pour calculer une moyenne mobile simple (SMA
+Voici la liste des questions d'entretien qui ont été posées :
+
+1. **Comment inverser une liste chaînée?**
+2. **Questions de base sur l'apprentissage automatique, régression linéaire, algorithmes de tri de base et leur application.**
+3. **La plupart étaient basées sur des algorithmes, mais il y avait un tour sur la pensée abstraite où je devais trouver un nombre pour une question abstraite sur le PIB d'un pays.**
+4. **Questions de base sur la probabilité.**
+5. **Pourquoi voulez-vous travailler dans l'infrastructure? Qu'est-ce que SNMP? Pourquoi est-il utilisé ? Modèle OSI ? Questions TCP/IP. Forces et faiblesses.**
+6. **Valeur d'une option sur un dé.**
+7. **Questions de base sur la programmation, algorithmes, pourquoi vous voulez travailler chez Citadel, etc.**
+8. **La probabilité de voir une étoile en une heure est de 60%. Quelle est la probabilité de voir une étoile en une demi-heure?**
+9. **Écrire un code pour rechercher dans un tableau.**
+10. **Comment vous intégrez-vous dans notre équipe?**
+
+
+Voici la liste des questions qui ont été posées lors des entretiens mentionnés dans votre récit :
+
+1. **Questions générales et d'expérience :**
+   - Parlez-moi du groupe dans lequel vous travaillez et de votre expérience particulière.
+   - Que pensez-vous des modèles statistiques, notamment sur la précision de la prédiction basée sur un échantillon d'entraînement ou un échantillon de test indépendant ?
+   - Connaissez-vous l'erreur en échantillon et l'erreur hors échantillon ?
+   - Quels domaines spécifiques couvrez-vous ? Combien d'actions suivez-vous simultanément ? Préférez-vous le long, le court ou le market neutral ? Comment communiquez-vous avec votre PM ?
+   - Présentez-vous.
+   - Pourquoi avez-vous fait la transition entre différents emplois ?
+
+2. **Questions techniques :**
+   - Questions sur ce que j'ai fait dans mon CV.
+   - Questions de probabilité de base.
+   - Questions techniques : Binomial pricing, marches aléatoires et algèbre linéaire.
+   - Concevez une classe de matrice.
+   - Multipliez deux matrices.
+   - Avez-vous des expériences en programmation ?
+   - Quelle est la différence entre l'intelligence
+Voici la liste des questions posées lors des différents entretiens mentionnés :
+
+1. Best time to sell and buy stock
+2. What do you know about Time Series Analysis?
+3. Write a program to schedule a stream of pizza delivery orders.
+4. Common problems with linear regression.
+5. List Sorting. Probability.
+6. General background question
+7. Why should we hire you over other candidates?
+8. Are you familiar with Citadel? What experience do you have with trade clearing or settlements?
+9. Prism Technology. Choice of data structure for a problem statement (internal caching of data in a server)
+Voici la liste des questions posées lors des interviews mentionnées dans votre document :
+
+1. General questions about my work experience.
+2. Tell me about your background. Why does this job interest you?
+3. Questions about internship experience and research work in college.
+4. Expected number of rolls to see all six sides on a die.
+5. Describe all the C++ casts and their properties.
+6. Several questions on linear regression under different conditions.
+7. Coding questions were basically how to iterate over certain data structures, how to perform linear search, and recursion.
+8. What layer of the OSI model does ICMP operate on?
+9. State and prove the central limit theorem.
+
+Les questions techniques couvrent divers domaines tels que les statistiques, la programmation, la finance, et d'autres compétences pertinentes pour les rôles techniques et analytiques.
+Voici la liste des questions qui ont été posées lors des différentes interviews mentionnées :
+
+1. Pourquoi Citadel ?
+2. Que fait Citadel ?
+3. Parlez-nous des projets de programmation sur lesquels vous avez travaillé / à quel niveau se situent vos capacités de programmation ?
+4. Comment serais-je le meilleur candidat pour ce poste ?
+5. Que fais-tu pour ton doctorat ?
+6. Deux questions de probabilité et une question d'algorithme.
+7. Beaucoup de casse-tête et d'algorithmes. Questions à propos du système d'exploitation.
+8. Quel est l'usage du mot « typename » dans certains cas de template ?
+9. Meilleure position longue et courte.
+10. Pourquoi avez-vous postulé pour ce travail ? Expliquez pourquoi vous pensez que vous seriez bon pour ce poste.
+11. Si je vous donne 1 000 000 USD, comment les investiriez-vous ?
+12. Écrivez une fonction qui détermine si un nombre est premier ou non.
+13. Écrivez le parcours "in-order" d'un arbre.
+14. Quelle serait la logique de jeu si vous deviez créer un jeu d'échecs en Java ?
+
+Si vous avez besoin de plus de détails ou de
+Voici la liste des questions posées lors des interviews décrites :
+
+1. **Question pour le sujet de base en informatique et intégration avec des logiciels de l'entreprise et des produits Microsoft.**
+   - Sujet général sans question spécifique mentionnée.
+
+2. **Question sur les concepts de probabilité, les questions sur le C++, et les algorithmes :**
+   - Longest Monotonically Increasing Subsequence Size (N log N).
+
+3. **Questions basées sur le CV et portant sur les projets de recherche :**
+   - How do you estimate the square root of 5?
+
+4. **Questions sur les projets de recherche, la régression, la sélection de fonctionnalités, le surajustement, et la programmation linéaire :**
+   - Pas de question spécifique mentionnée, questions générales sur les sujets mentionnés.
+
+5. **Question du responsable du recrutement concernant le salaire attendu :**
+   - The hiring manager asked about expected salary.
+
+6. **Question quantitative sur la corrélation des variables aléatoires :**
+   - Suppose you have three random variables. The correlation between A and B is 0.6, the correlation between A and C is 0.8. What is the range of correlation between B and C?
+
+7
+Voici la liste des questions qui ont été posées lors des différentes interviews mentionnées dans les témoignages :
+
+1. Pouvez-vous décrire votre expérience de travail antérieure?
+2. Questions techniques sur votre travail de recherche et quelques questions de probabilité.
+3. Combien d'essais sont nécessaires pour obtenir trois têtes consécutives?
+4. Questions sur les structures de données.
+5. Questions focussées sur l'optimisation de portefeuille.
+6. Questions liées à la gestion des risques dans le contexte du CV.
+7. Questions liées aux mathématiques et à la recherche opérationnelle (OR).
+8. Questions liées à la volatilité.
+9. Question sur les modèles de conception.
+10. Questions de probabilité. 
+
+Ces questions couvrent à la fois des aspects techniques et comportementaux adaptés aux rôles spécifiques pour lesquels les candidats interviewaient.
+Voici la liste des questions posées lors des interviews que vous avez mentionnées :
+
+1. Why should we hire you over other candidates?
+2. Why do some data centers use DC power v. AC?
+3. No unexpected questions
+4. Given some coins, how do you flip them to make sure all the coins have the same sides?
+5. Copy a linked list with random pointers
+6. All the questions are trivial. One example would be reversing a string.
+7. Nothing unexpected
+8. Explain how mergesort works.
+9. What is an option?
+
+Ces questions couvrent un large éventail de domaines allant des compétences techniques en informatique à des questions comportementales et théoriques.
+### Liste des questions posées
+
+1. **Application en ligne:**
+   - Question: [Non spécifiée]
+  
+2. **Stage (Sur le campus):**
+   - Question 1: Brain Teaser: Blindfolded. In a room with 8 coins. What is the minimum number of flips required to guarantee that one of the permutations had all coins with the same side?
+
+3. **Comptable senior:**
+   - Question 1: Why Citadel? And what can you bring to "us?"
+
+4. **Ecran 1:**
+   - Question [Non spécifiée]
+
+5. **Ecran 2 (Contact téléphonique):**
+   - Question [Non spécifiée]
+
+6. **Interview:**
+   - Question 1: How to implement hashmap in C#?
+
+7. **Interviews téléphoniques avec plusieurs équipes:**
+   - Question 1: You are asked to predict movements in the S&P 500, and the correlation between your model's predictions and the actual index movement is x. What is your expected proportion of winning trades as a function of x if you invest solely on the model? Notice that if x = 1, you will always win because you can essentially predict the future.
+
+8
+Voici la liste des questions qui ont été posées lors des entretiens mentionnés :
+
+1. Pourquoi voulez-vous travailler dans cette institution financière plutôt que dans une société purement logicielle comme Microsoft, etc.?
+2. Discuter des relations préexistantes.
+3. Trouvez le prochain nombre palindrome.
+4. Savez-vous ce qu'est le polymorphisme ?
+5. Beaucoup de questions sur les threads et la synchronisation (OS non encore pris).
+6. Il y a une énigme concernant une ficelle qui brûle des deux extrémités, très ancienne, mais l'intervieweur a demandé la mauvaise réponse.
+7. Fourmis sur une ficelle (Brain teaser classique).
+
+Note : Certaines questions semblent plus générales (par exemple, "Find the next palindrome number") et certaines sont des approches interrogatives plus orientées vers les situations techniques spécifiques (par exemple, "Questions about threads and synchronization"). D’autres ne sont mentionnées que de manière vague ou sont des observations généralisées sur l’entretien, comme des problèmes de maths ou des questions d’algorithmes.
+Voici la liste des questions qui ont été posées lors des différents entretiens selon les témoignages fournis :
+
+1. Question basée sur la récursion, les maps, etc.
+2. Quelle est la valeur attendue d'un dé ?
+3. Détaillez le logiciel que vous avez utilisé en tant que préparateur de déclarations fiscales.
+4. Comment mesurez-vous précisément 45 minutes en utilisant deux cordes ?
+5. Vous avez une règle d'un mètre. Nous allons laisser tomber 200 fourmis sur la règle, chaque fourmi tombant à un endroit le long de la règle qui est uniformément distribué. Quand une fourmi tombe, elle va à gauche ou à droite avec la même probabilité. Quand deux fourmis se heurtent, elles inversent les directions. Chaque fourmi se déplace le long de la ficelle à une vitesse de 1 mètre par minute. Combien de temps faudra-t-il pour que toutes les fourmis tombent de la règle ?
+6. Comment mesurons-nous votre succès et le succès des autres ?
+7. Qu'est-ce que vous faites comme loisir ?
+8. Qu'est-ce que le CDS (Credit Default Swap) ?
+9. Quelles sont les chances d'obtenir un bre
+Voici la liste des questions qui ont été posées lors des interviews mentionnés :
+
+1. **FIT Questions:**
+   - Why investment banking?
+
+2. **Technical Questions:**
+   - To write down code for x^n in O(logn) time.
+   - Scope of variables in C++, difference between pass by value/reference/pointer.
+   - Implementing stack in C++.
+
+3. **Behavioral Questions:**
+   - Your strong point and weak point?
+   - How do you improve your weak point?
+   - How much do you know about the company?
+   - Introduce your achievements to me?
+   - Whether you can program? If yes, in what language?
+
+4. **General Questions about Investing:**
+   - Walk through resume.
+   - Stock pitch.
+   - General questions about investing.
+   - Philosophical views about investing.
+   - Logic puzzles.
+   - What makes a stock move in various contexts?
+
+5. **Stock Idea:**
+   - What's your favorite stock idea?
+
+6. **Brain Teasers, Puzzles, and Math Problems:**
+   - How many tennis balls are made in China each year?
+
+7. **Educational Questions:**
+   - What classes did you take and what did you learn in school?
+Voici la liste des questions qui ont été posées lors des diverses interviews :
+
+1. Comment implémenteriez-vous le jeu Bejeweled ? (Quelles structures de données utiliseriez-vous ? Quel algorithme utiliseriez-vous pour détecter quand dégager des blocs, etc. ?)
+2. Comment pouvez-vous trouver une boucle dans une liste chaînée ?
+3. Pourquoi vous intéressez-vous à la finance ?
+4. Écrivez du code pour multiplier deux matrices.
+5. Pourquoi finance ?
+6. Pourquoi devrions-nous vous embaucher ?
+7. Décrivez la poignée de main en trois étapes de TCP.
+8. Vous avez un tableau d'entiers, A1, A2, ..., An, incluant des valeurs négatives et positives, et un autre entier S. Maintenant, nous devons trouver trois entiers différents dans le tableau, dont la somme est la plus proche de l'entier donné S. S'il existe plus d'une solution, n'importe laquelle est acceptable. Existe-t-il un algorithme pour trouver ces trois entiers en temps O(n^2) ?
+9. Quand était la dernière fois que vous avez programmé ?
+
+Les questions techniques et comportementales varient, mais elles couvrent principalement des compétences
+Voici la liste des questions qui ont été posées lors des témoignages d'entretiens :
+
+1. Pourquoi voulez-vous travailler ici et non chez Goldman Sachs ?
+2. Décrivez la différence entre le monde académique et le monde des affaires ?

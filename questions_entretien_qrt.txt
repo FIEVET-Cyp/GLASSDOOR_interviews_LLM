@@ -1,0 +1,101 @@
+Voici la liste des questions qui ont été posées lors des interviews décrites dans les témoignages :
+
+1. Staffing agency went through my experience
+2. Like doing research or not
+3. Why do you want to leave your current job?
+4. Build a web scraper to get information and rank them
+5. Write a method to get T-3th business day, excluding holidays in between
+6. MCQ math questions with emphasis on stats and probability
+7. The technical interview consisted of fairly basic pandas questions
+8. Tell me an instance where you know you failed a task?
+9. Describe Monte Carlo simulation and the mathematical assumptions underpinning it.
+10. Walk through your resume and describe your experience
+11. Describe how a random forest works
+
+C'est la liste complète des questions évoquées dans les témoignages que vous avez partagés.
+Voici la liste des questions qui ont été posées lors des entretiens mentionnés dans les témoignages :
+
+1. [Question 1] Design a database architecture based on the given dataset.
+2. [Question 1] Derive the least squares estimator for linear regression.
+3. [Question 1] Estimate the population of Nigeria and rate your confidence.
+4. [Question 1] Maths + probas + logiques et brain teasers + fitting et expériences.
+5. [Question 1] Tell us about yourself.
+6. [Question 1] What do you do to avoid model overfitting?
+7. [Question 1] Computer Science question. If I know the prices S1,...,Sn of a stock, how can I choose i.
+8. [Question 1] Estimate how many TV sales in US per year.
+9. [Question 1] Some probability questions (similar to the type in green book, using the linearity of expectation), some basic coding questions (about the language itself), and more questions on the resume (about 50%).
+10. [Question 1] 13 balls, one has a different weight, what’s your strategy to find out which one is the different one with scales.
+11.
+Voici la liste des questions posées pendant les entretiens :
+
+1. **git command, SQL, python list**
+2. **What are your top three skills?**
+3. **well known problems from green book. some python too**
+4. **What is the difference between an array and a tuple?**
+5. **About linear algebra and regression**
+6. **assumptions of the linear regression**
+7. **Tell me about your past experience in as much detail as you can? Walk me through a sample trading strategy that you developed in the past?**
+8. **Tell me the basic assumptions of linear regressions**
+9. **Like to work along or in a team**
+10. **Construct a stack using queues.**
+11. **Explain the time complexities for functionalities of some inbuilt data structures in C++ (e.g., set, priority_queue, map, unordered_map) and how to decide which one to use.**
+12. **Choose the largest subsequence of an array such that there are at most k adjacent pairs of numbers where one number is not equal to the other.**
+13. **Traverse an undirected connected graph (vertices are 1, 2, ... n) starting from any vertex and when you visit a node
+Voici la liste des questions posées dans les témoignages :
+
+1. Quelle est la variance de X + Y ?
+2. Comment calculez-vous la valeur bêta d'une régression ?
+3. Décrivez les forêts aléatoires (random forests).
+4. Quelle est la différence entre map et unorder map en C++ ?
+5. Quelle est la différence entre C++ et C# ?
+6. Pour le développement à faible latence, quelle langue faut-il utiliser ? Quels sont les avantages et inconvénients de chaque langue ?
+7. Générateurs en Python et écritures SQL.
+8. Quelle est la complexité temporelle du tri rapide (Quick sort) ?
+9. Présentez-vous.
+10. Une question simple d'énigme de probabilité.
+11. Quelle est la différence entre la régression ridge et la régression lasso ?
+12. Quelle est la différence entre OLS (moindres carrés ordinaires) et la régression ridge ?
+13. Passez en revue le CV.
+14. Décrivez le processus de l'analyse en composantes principales (PCA).
+15. Une question de codage.
+Voici la liste des questions qui ont été posées lors des interviews:
+
+1. Quelles stratégies déployez-vous pour vos stratégies ? Quelles classes d'actifs sont couvertes ? Que pensez-vous de l'application d'un modèle de tarification par arbitrage sur le trading intraday ?
+2. Pouvez-vous me citer quelques algorithmes de tri ? Quelle est la complexité de ces algorithmes ?
+3. Quelle stratégie votre entreprise suit-elle actuellement ?
+4. Comment rendre une classe Python personnalisée hachable ?
+5. Sur quels projets avez-vous travaillé ?
+6. Quelle est votre stratégie actuelle et combien rapporte-t-elle ?
+7. Réalisez deux problèmes en 30 minutes.
+8. Sur quoi travaillez-vous actuellement ? Quels marchés votre entreprise traite-t-elle ? Quels protocoles utilisez-vous ?
+9. Qu'est-ce que le tableau virtuel (vtable) en C++ ? Qu'est-ce qu'un shared pointer en C++ ? Quelques questions sur les problèmes de multithreading.
+10. Quel est le nombre précis de gestionnaires de portefeuille et de traders chez votre employeur actuel ?
+Voici la liste des questions qui ont été posées lors des entretiens mentionnés :
+
+1. **Process non clair et manque de respect :**
+   - Questions d'entretien :
+     - Questions sur le background et les stages passés
+
+2. **Étapes du processus d'entretien (5 étapes) :**
+   - Questions d'entretien :
+     - Comment fonctionne le mot-clé `static` en C# ?
+
+3. **Questions sur les statistiques et l'apprentissage automatique :**
+   - Questions d'entretien :
+     - Que vérifiez-vous avant d'appliquer une régression linéaire multivariée sur un ensemble de données donné ?
+
+4. **Entretien pour un Data Engineer :**
+   - Questions d'entretien :
+     - Calculer les profits de ce portefeuille
+
+5. **Première étape (questions de programmation avec limite de temps) :**
+   - Questions d'entretien :
+     - Première étape : 5 questions de programmation.
+
+6. **Entretien d'équipe (questions de codage en ligne) :**
+   - Questions d'entretien :
+     - Écrire un test Cloud lié à Lambda, EC2
+
+7. **Première étape de l'entretien, difficulté de compréhension avec l'interviewer :**
+   - Questions d'entretien :
+     - Comment faites

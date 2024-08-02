@@ -1,0 +1,70 @@
+### Mise à Jour de la Liste des Questions
+
+---
+
+### Questions Actuelles (Synthétisées et Compte des Occurrences) :
+
+1. **Décrivez votre expérience professionnelle.** (×2)
+2. **Aimez-vous faire des recherches ?** (×1)
+3. **Pourquoi souhaitez-vous quitter votre emploi actuel ?** (×1)
+4. **Construire un web scraper pour obtenir et classer des informations.** (×1)
+5. **Écrire une méthode pour obtenir le T-3e jour ouvrable, en excluant les jours fériés intermédiaires.** (×1)
+6. **Questions à choix multiple sur les maths, avec un accent sur les statistiques et la probabilité.** (×3)
+7. **Questions techniques assez basiques sur pandas.** (×1)
+8. **Parlez-moi d'un exemple où vous avez échoué dans une tâche ?** (×1)
+9. **Expliquer la simulation de Monte Carlo et les hypothèses mathématiques sous-jacentes.** (×1)
+10. **Décrire le fonctionnement des forêts aléatoires.** (×2)
+11. **Concevoir une architecture de base de données basée sur un dataset donné.** (×1)
+12. **Dériver l'estimateur des moindres carrés pour la régression linéaire.** (×1)
+13. **Estimer la population du Nigeria et évaluer votre confiance en cette estimation.** (×1)
+14. **Décrire comment éviter le surapprentissage (overfitting) dans un modèle.** (×1)
+15. **Informatique : déterminer l'indice optimal d'achat d'une action donnée une série de prix.** (×1)
+16. **Estimer le nombre de ventes de téléviseurs aux États-Unis par an.** (×1)
+17. **Questions de probabilité utilisant la linéarité de l'espérance.** (×1)
+18. **Stratégie pour identifier une balle de poids différent parmi 13 balles avec une balance.** (×1)
+19. **Commandes Git, SQL, listes Python.** (×1)
+20. **Problèmes connus du "Green Book", avec des questions Python.** (×1)
+21. **Différence entre un tableau (array) et un tuple.** (×1)
+22. **Questions sur l'algèbre linéaire et la régression.** (×2)
+23. **Hypothèses de la régression linéaire.** (×2)
+24. **Construire une pile (stack) en utilisant des files (queues).** (×1)
+25. **Complexités temporelles des structures de données intégrées en C++ (set, priority_queue, map, unordered_map) et comment choisir la bonne.** (×1)
+26. **Choisir la plus grande sous-séquence d'un tableau avec au plus k paires adjacentes de nombres différents.** (×1)
+27. **Travailler dans un graphe non orienté et connecté, en partant de n'importe quel sommet et en visitant chaque nœud.** (×1)
+28. **Quelle est la variance de X + Y ?** (×1)
+29. **Comment calculez-vous la valeur bêta d'une régression ?** (×1)
+30. **Différence entre map et unordered_map en C++ ?** (×1)
+31. **Pour le développement à faible latence, quelle langue faut-il utiliser ? Avantages et inconvénients ?** (×1)
+32. **Générateurs en Python et écritures SQL.** (×1)
+33. **Quelle est la complexité temporelle du tri rapide (Quick sort) ?** (×1)
+34. **Une question simple d'énigme de probabilité.** (×2)
+35. **Quelle est la différence entre la régression ridge et la régression lasso ?** (×1)
+36. **Différence entre OLS (moindres carrés ordinaires) et régression ridge ?** (×1)
+37. **Décrire le processus de l'analyse en composantes principales (PCA).** (×1)
+38. **Une question de codage.** (×2)
+39. **Citez quelques algorithmes de tri et leur complexité.** (×1)
+40. **Comment rendre une classe Python personnalisée hachable ?** (×1)
+41. **Qu'est-ce que le tableau virtuel (vtable) en C++ ?** (×1)
+42. **Qu'est-ce qu'un shared pointer en C++ ?** (×1)
+43. **Questions sur les problèmes de multithreading en C++.** (×1)
+44. **Que vérifiez-vous avant d'appliquer une régression linéaire multivariée ?** (×1)
+45. **Comment fonctionne le mot-clé `static` en C# ?** (×1)
+46. **Calculer les profits de ce portefeuille.** (×1)
+47. **Questions sur le background et les stages passés.** (×1)
+48. **Étapes du processus d'entretien (5 étapes).** (×1)
+
+---
+
+### Nouvelles Questions Ajoutées :
+
+1. **Première étape (5 questions de programmation).** (×1)
+2. **Entretien d'équipe (questions de codage en ligne).** (×1)
+3. **Écrire un test Cloud lié à Lambda, EC2.** (×1)
+
+---
+
+### Synthèse et Reformulation :
+
+- **Première étape de l'entretien, difficulté de compréhension avec l'interviewer.** (Non incluse, car reliée à une situation plutôt qu'à une question de maths, brain teaser ou de codage.)
+
+Les nouvelles questions ont été ajoutées et la liste a été mise à jour selon vos indications.Bien sûr! Pourriez-vous préciser sur quel sujet ou quelle réponse vous souhaitez que je continue? Cela m'aiderait à vous fournir des informations précises et pertinentes.

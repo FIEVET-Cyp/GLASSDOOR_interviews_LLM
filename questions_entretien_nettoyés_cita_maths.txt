@@ -1,0 +1,55 @@
+Merci pour ces questions supplémentaires. Cependant, basées sur les catégories de questions que nous conservons (maths, brain teasers, ou exercices de code), ces questions sont de nature comportementales et ne rentrent pas dans les catégories listées. Donc, elles ne seront pas ajoutées à la liste.
+
+Voici la liste mise à jour :
+
+### Liste Mise à Jour des Questions
+
+#### Questions de Code (Programmer)
+- **Best time to sell and buy stock** (4x)
+- **Write a program to schedule a stream of pizza delivery orders** (1x)
+- **Choice of data structure for a problem statement (internal caching of data in a server)** (1x)
+- **Describe all the C++ casts and their properties** (1x)
+- **Iterate over certain data structures** (1x)
+- **How to perform linear search** (1x)
+- **Recursion coding questions** (2x)
+- **Write a function to determine if a number is prime** (1x)
+- **In-order traversal of a tree** (1x)
+- **Game logic for chess in Java** (1x)
+- **Longest Monotonically Increasing Subsequence Size (N log N)** (1x)
+- **Copy a linked list with random pointers** (1x)
+- **Explain how mergesort works** (1x)
+- **Questions sur les structures de données** (1x)
+- **Questions sur les modèles de conception (Design patterns)** (1x)
+- **How to implement hashmap in C#** (1x)
+- **Questions about threads and synchronization** (1x)
+- **Implement stack in C++** (1x)
+- **Code for x^n in O(log n)** (1x)
+- **How to detect a loop in a linked list** (1x)
+- **Matrix multiplication code** (1x)
+- **Algorithm to find three integers in an array whose sum is closest to a given integer in O(n^2) time** (1x)
+- **How to implement Bejeweled game (data structures and algorithms)**  (1x)
+
+#### Casse-têtes Mathématiques ou Brain Teasers
+- **Expected number of rolls to see all six sides on a die** (1x)
+- **Two probability questions and one algorithm question** (1x)
+- **Central limit theorem: State and prove** (1x)
+- **Estimate the square root of 5** (1x)
+- **Combien d'essais sont nécessaires pour obtenir trois têtes consécutives ?** (1x)
+- **In a room with 8 coins, what is the minimum number of flips required to guarantee that all coins show the same side?** (1x)
+- **Given some coins, how do you flip them to make sure all the coins have the same sides?** (1x)
+- **Comment mesurer précisément 45 minutes en utilisant deux cordes?** (1x)
+- **Fourmis sur une ficelle (Brain teaser classique)** (2x)
+- **How many tennis balls are made in China each year?** (1x)
+
+#### Questions de Statistiques
+- **Common problems with linear regression** (1x)
+- **What do you know about Time Series Analysis?** (1x)
+- **Several questions on linear regression under different conditions** (3x)
+- **Quantitative question about correlation of random variables** (1x)
+- **Suppose you have three random variables. The correlation between A and B is 0.6, and the correlation between A and C is 0.8. What is the range of correlation between B and C?** (1x)
+- **Questions techniques de probabilité** (1x)
+- **Questions focussées sur l'optimisation de portefeuille** (1x)
+- **Questions liées à la gestion des risques et à la volatilité** (1x)
+- **Expected proportion of winning trades as a function of model's prediction accuracy (x)** (1x)
+
+N'hésitez pas à poser d'autres questions ou à fournir des ajustements si nécessaire !Je suis désolé, il semble que je n'ai pas de réponse précédente à continuer. Comment puis-je vous aider aujourd'hui? Que souhaitez-vous savoir ou discuter?

@@ -1,0 +1,75 @@
+D'accord, je vais fusionner et synthétiser les nouvelles questions comme demandé. Voici la liste mise à jour :
+
+### Questions Mathématiques/Statistiques:
+
+1. **Qu'est-ce que le compromis biais-variance (Bias-Variance Tradeoff) ?** (1er occurrence)
+2. **Qu'est-ce que le paradoxe de Saint-Pétersbourg ?** (1er occurrence)
+3. **Quelle est la limitation du modèle de volatilité locale ?** (1er occurrence)
+4. **Pouvez-vous expliquer le théorème de Fermat ?** (1er occurrence)
+5. **Expliquez la complexité de Hashmap et la statistique R² pour le coefficient de détermination.** (1er occurrence)
+6. **Que signifie le theta pour un contrat d'option ?** (1er occurrence)
+7. **Quel est votre ratio de Sharpe au cours de l'année écoulée ?** (1er occurrence)
+8. **Qu'est-ce que l'erreur standard en statistiques ?** (1er occurrence)
+9. **Expliquez la régression linéaire.** (1er occurrence)
+10. **Quelle est votre connaissance sur les Credit Default Swaps ?** (1er occurrence)
+11. **Comment mesurez-vous le risque d'un portefeuille ? Quels sont les différents types de risques ? Questions sur VaR et CVaR.** (1er occurrence)
+
+### Exercices de Code et Questions Techniques:
+
+1. **Trouver les facteurs premiers d'une liste de nombres et les utiliser pour actionner des interrupteurs.** (1er occurrence)
+2. **Résoudre 2 exercices faciles et 1 moyen sur HackerRank, incluant un avec des regex.** (1er occurrence)
+3. **Approches pour trouver un nombre manquant dans une plage donnée. Fonctionne-t-elle si plusieurs nombres manquent ?** (1er occurrence)
+4. **Calculer une somme pondérée pour un tableau imbriqué où le poids augmente avec la profondeur.** (1er occurrence)
+5. **Écrire une requête SQL pour obtenir les noms des employés apparaissant plus d'une fois dans une table.** (1er occurrence)
+6. **Inverser une chaîne de manière spécifique.** (1er occurrence)
+7. **Analyse de données en séries temporelles en Python.** (1er occurrence)
+8. **Implémenter un algorithme d'algèbre.** (1er occurrence)
+9. **Test standard Python HackerRank.** (1er occurrence)
+10. **Implémenter une carte de redimensionnement sans utiliser les bibliothèques intégrées de Java, la rendre thread-safe.** (1er occurrence)
+11. **Supprimer les zéros du tableau en O(1) espace et O(n) temps.** (1er occurrence)
+12. **Imprimer la somme des éléments des deux diagonales dans une matrice.** (1er occurrence)
+13. **Analyser un fichier pour créer un dictionnaire.** (1er occurrence)
+14. **Anagrammes dans une liste de mots.** (1er occurrence)
+15. **Implémentation de techniques de Machine Learning.** (1er occurrence)
+16. **Résoudre un test HackerRank revolving autour de pandas.** (1er occurrence)
+17. **Optimiser le code sur des machines multicœurs.** (1er occurrence)
+18. **Test de codage Python principalement sur les chaînes de caractères.** (1er occurrence)
+19. **Calcul du ratio de Sharpe.** (1er occurrence)
+20. **Tests Python faciles.** (1er occurrence)
+21. **80 mins Timed HackerRank (Total 2 Questions): One on String and the other on Dict. One hour Data Cleaning Project afterwards.** (1er occurrence)
+22. **Exercice 3 questions de codage et requêtes SQL en C#.** (1er occurrence)
+23. **Lire un fichier CSV avec MATLAB/Python, puzzle de geeksforgeeks.** (1er occurrence)
+24. **Nettoyage et analyse de datasets de signal.** (1er occurrence)
+25. **Questions sur les structures de données et les algorithmes.** (1er occurrence)
+26. **Exercice de nettoyage de données.** (1er occurrence)
+27. **Trouver la somme maximale dans un tableau.** (1er occurrence)
+
+### Brainteasers:
+
+1. **Pitch me a stock you are short on.** (1er occurrence)
+2. **Risk management, idea generation and stop losses.** (1er occurrence)
+3. **Pourquoi voulez-vous travailler chez Millennium ?** (1er occurrence)
+4. **Scenario based questions and basic but hard to know questions if you haven’t done your Microsoft certs.** (1er occurrence)
+5. **Tell me about yourself/ behavioral/ brainteasers/ etc.** **(2ème occurrence)**
+6. **Décrivez comment vous construisez votre portefeuille.** (1er occurrence)
+7. **Quels paramètres de risque utilisez-vous ?** (1er occurrence)
+8. **Que feriez-vous en cas de perte de 5 % ?** (1er occurrence)
+9. **Quelle est votre stratégie ? Comment votre stratégie est-elle mise en œuvre ?** (1er occurrence)
+10. **Quelles sont vos impressions sur les marchés récemment ?** (1er occurrence)
+
+### Autres Questions Élaguées:
+
+1. **Pourquoi avez-vous choisi votre école actuelle pour votre master ?**
+2. **Quelles sont les cours que vous avez pris et lequel vous a le plus plu ?**
+3. **Pouvez-vous détailler votre expérience passée ?**
+4. **Pourquoi avez-vous choisi l'informatique comme votre majeure de premier cycle ?**
+5. **Comment gérez-vous un intervenant difficile ?**
+6. **Quelle est la différence entre Mongo et SQL ? Qu'est-ce que la 'store' procédure dans SQL ?**
+7. **Comment votre expérience correspond-elle au poste ?**
+8. **Quel est votre parcours ?**
+9. **Questions de codage, casse-tête, et connaissances en informatique.** **(2ème occurrence)**
+10. **Votre expérience de travail précédente, compétence en programmation, pseudo-code pour des problèmes, scénarios en temps réel, familiarité avec le domaine des services bancaires d'investissement, questions comportementales.**
+11. **Donnée une date au format (M/J/A) et sachant que c'est par exemple un mardi, quelle est le jour de la semaine pour une autre date au format (M/J/A) ?**
+12. **Arbres de recherche binaires, questions logiques, questions sur Angular/React (niveau moyen) et gestion de la versioning.**
+
+Les nouvelles questions comportant des éléments de comportement, d'expérience antérieure, et des aspects techniques non spécifiquement liés à la programmation ou aux statistiques ont été élaguées ou fusionnées pour rationaliser la liste.Je suis désolé, mais il semble que je n'ai pas accès au contexte de la conversation précédente. Pourriez-vous me donner plus de détails ou reformuler votre question ? Je serais heureux de vous aider à partir de là.

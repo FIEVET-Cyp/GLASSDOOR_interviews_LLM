@@ -1,0 +1,386 @@
+Voici la liste des questions qui ont été posées lors des témoignages d'interviews :
+
+1. Questions d'entretien [1]
+   - Question 1 : Pourquoi voulez-vous passer du côté investissement au côté développement commercial ?
+
+2. Questions d'entretien [1]
+   - Question 1 : Challenge de données, comment traiter et transformer les données ?
+
+3. Questions d'entretien [1]
+   - Question 1 : Comment avez-vous utilisé Excel dans votre poste ?
+
+4. Questions d'entretien [1]
+   - Question 1 : Comment le type est-il déterminé par var ?
+
+5. Questions d'entretien [1]
+   - Question 1 : Implémenter un algorithme d'algèbre
+
+6. Questions d'entretien [1]
+   - Question 1 : Parlez-moi de votre CV
+
+7. Questions d'entretien [1]
+   - Question 1 : Qu'est-ce que le compromis biais-variance (Bias-Variance Tradeoff) ?
+
+8. Questions d'entretien [1]
+   - Question 1 : Expliquez la collection Java et comment vous les utilisez.
+
+9. Questions d'entretien [1]
+   - Question 1 : Paradoxe de Saint-Pétersbourg (question de statistiques)
+
+10. Questions d'entretien [1
+Voici la liste des questions qui ont été posées dans les témoignages d'interviews :
+
+1. **Heckerrank SQL problem:**
+   - Given a list of numbers, find all its prime factors and use those prime factors to flip the bulbs.
+   
+2. **Investment Analyst:**
+   - What defines a good investment?
+   
+3. **Trading Ops:**
+   - 2 easy 1 medium hackerrank. One of the easy ones was a regex.
+   - Tell me about an application you support.
+   
+4. **Senior Credit Analyst:**
+   - What is your investment process?
+   
+5. **Technical Position:**
+   - Give multiple approaches to find the missing number in a given range if just one number is missing. Then pick the best approach. Does your picked approach work if multiple numbers are missing?
+   - Compute a weighted sum for a nested array where the weight increases with depth. Each element in each depth can either be a number or a subarray of numbers.
+   - Given an employee table with id and name. Write a SQL query to get employee names repeating more than once.
+   - Is JavaScript a single-threaded or multi-threaded?
+   - How does JavaScript handle asynchronous processes as a single-threaded
+Voici la liste des questions posées lors des interviews:
+
+1. La tâche consistait à comprendre la POO (programmation orientée objet).
+2. Parlez-moi de vous et comment votre expérience s'aligne avec le rôle.
+3. Quelles sont les notions de base de la POO?
+4. Différence entre TCP et UDP.
+5. Être à l'aise avec les structures de données, comme les listes chaînées, etc., et avec la programmation dynamique.
+6. Q. Où vous voyez-vous travailler dans 1-2 ans ? Apprentissage automatique ou développement logiciel ? Q. Quelles langues avez-vous utilisées ? Q. Quelle stack technologique avez-vous utilisée ? Q. Pourquoi voulez-vous travailler chez Millennium et dans une société d'investissement ? Q. Que voulez-vous savoir ?
+7. Premier entretien technique, et notez que j'ai passé des entretiens depuis plus de vingt ans... Écrire une démo complète et asynchrone, en utilisant des threads et un dictionnaire non concurrent, pour montrer comment ce n'est pas sûr dans un environnement multi-thread. Ensuite, le corriger. 30 minutes. C'était une catastrophe. Peut-être aurais-je dû être capable de le faire 
+Voici la liste des questions qui ont été posées lors des différents entretiens mentionnés :
+
+1. Quels sont les limitations du modèle de volatilité locale ?
+2. Présentez-vous
+3. Questions sur les expériences/projets du CV
+4. Questions techniques sur mon CV (en profondeur). Formule de Black-Scholes, les Greeks, définition d'une option, market making, arbitrage, etc.
+5. Quelle est votre expérience précédente ?
+6. Pourquoi Millennium plutôt que d'autres fonds de gestion d'actifs ?
+7. Parlez-moi d'un moment où vous aviez des délais serrés.
+8. Parlez-moi de votre CV.
+9. Pourquoi voulez-vous travailler ici ?
+10. Comment vous tenez-vous à jour avec les changements dans les conditions financières ?
+11. Pourquoi un pointeur faible est-il nécessaire et comment est-il lié à un pointeur partagé ?
+12. Analyse de données en séries temporelles en Python.
+
+Chaque question est associée à un aspect particulier de l'expérience ou des compétences du candidat, permettant ainsi aux recruteurs d'évaluer leurs qualifications spécifiques pour le poste.
+Voici la liste des questions qui ont été posées lors des différents entretiens mentionnés dans votre message :
+
+1. Pouvez-vous inverser la chaîne d'une manière spécifique ?
+2. Pouvez-vous expliquer la réplication de portefeuille sur une option exotique ?
+3. Pouvez-vous nous parler de quelque chose à votre sujet qui n'est pas sur votre CV ?
+4. Pouvez-vous me parler de vos expériences ? Pourquoi avez-vous fait cela de cette manière ?
+5. Un tuple dans une liste est-il immuable ou non ?
+6. La plupart des questions concernent mon CV et mon expérience ? Comment m'intégrerais-je dans un poste quantitatif basé sur mon expérience variée ?
+7. Plus de trucs standard d'agent quantitatif pour une évaluation en ligne?
+8. Juste des problèmes ordinaires de LeetCode ?
+9. Quelle est votre motivation pour postuler ? Quelle est votre connaissance de l'entreprise ? Quelles sont vos compétences douces et vos expériences passées ?
+10. Pouvez-vous expliquer l'énoncé du théorème de Fermat ?
+
+Ces questions couvrent un éventail de sujets allant des compétences techniques en programmation et en statistiques aux questions comportementales et en connaissances générales.
+Voici la liste des questions d'entretien qui ont été posées d'après les témoignages fournis :
+
+1. Pourquoi Millennium ? Quelles recherches avez-vous effectuées sur ce rôle ? Quelles sont vos trois meilleures compétences ?
+2. Quel est le nombre de côtés d'un triangle ?
+3. Pourquoi Millennium ? Pourquoi ce rôle ? Forces/faiblesses ?
+4. Question de comportement de base : Je me présente, quelle est ma connaissance de ce rôle, question sur la relocalisation, culture de l'équipe, etc.
+5. Test HackerRank et exercice à domicile
+6. Le test HackerRank contenait des questions à choix multiples liées à AWS, Docker, une question de programmation de niveau facile et quelques questions SQL.
+7. Pourquoi Millennium ? Quelle expérience avez-vous dans ce secteur ? Parlez-moi d'un moment où vous avez dû être ingénieux avec votre temps ?
+8. Expérience avec SQL, projets sur lesquels j'ai travaillé.
+9. Quel est un moment où vous avez fait preuve de résilience ?
+10. Test standard Python HackRank.
+Voici la liste des questions qui ont été posées lors des interviews :
+
+1. About the company, walked through my CV
+2. Risk management, idea generation and stop losses
+3. About resume background, math and algorithm
+4. Pitch me a stock you are short on
+5. Why do you want to work in C++?
+6. Hashmap complexity, R2 statistic for coefficient of determination
+7. What is the difference between IEnumerable and IQueriable?
+8. What is the theta signify for an option contract?
+9. Overview of skills and background; no technical questions on first round
+10. What’s your Sharpe ratio over the past year?
+Voici la liste des questions posées lors des interviews mentionnées :
+
+1. Phone interview with business development, followed by interviews with interested PMs or their teams.
+   - Question 1 : Depends on the team. Usually brainteasers or basic stats (deriving correlations, regression, mean-variance optimization), followed by questions about your research process.
+
+2. The interview process was smooth and specified that the interview would be purely based on Python.
+   - Question 1 : HR situation based questions. MySQL questions and mostly web-dev.
+
+3. The interview process is as follows: Initial OA -> Technical interview 1 -> Technical interview 2 -> Final interview with head of trading.
+   - Question 1 : What is standard error in statistics? Explain linear regression.
+
+4. I had 2 technical interviews and a home assignment.
+   - Question 1 : implement a resize map without using a Map built in Java libs. How would I keep it thread-safe?
+
+5. Interview for a Windows Engineer position.
+   - Question 1 : All are windows related technical questions.
+
+6. Mostly conversational with a few behavioral questions.
+   - Question 1 : Explain your background and how are you a fit for our company?
+
+7. Interview for a senior engineer position in Israel.
+
+Voici la liste des questions posées lors des interviews mentionnées :
+
+1. Pourquoi voulez-vous travailler chez Millennium ?
+2. Questions sur les tests de codage Hackerrank : tests de codage et questions sur des concepts de base en informatique.
+3. Exercice de nettoyage de données : questions sur la qualité et l'efficacité des signaux.
+4. Que faisiez-vous dans vos deux précédentes entreprises ?
+5. Questions basées sur des situations pour vérifier comment vous gérez certaines situations.
+6. Screening Round : 
+   - Structures de données en Python
+   - Classes - Variables statiques, de classe
+   - Classes abstraites
+   - Questions de base sur Pandas et Numpy
+7. Hackerrank Round : 
+   - 4 questions QCM
+   - Codage - Anagrammes dans une liste de mots
+   - Implémentation du multiprocessing
+8. Premier round de codage : 
+   - Supprimer les zéros du tableau (contrainte : doit être implémenté en O(1) espace et O(n))
+   - Imprimer la somme des éléments des deux diagonales dans une matrice
+9. Second round de codage : 
+   - Analyser le fichier pour créer un dictionnaire de
+Voici la liste des questions posées lors des interviews mentionnées :
+
+1. Standard questions re: strengths & weaknesses.
+2. Java knowledge, including concurrency and JVM.
+3. Describe your experience.
+4. How do you deal with difficult people?
+5. Can you read code?
+6. Overall the tasks are similar to medium and easy leetcode problems (including SQL and C# problems).
+7. Tell me about some of your financial strategies?
+8. Que experiencia tengo en el cargo?
+9. Tell me about the tech framework you've hired for most.
+10. Why do you want to work here?
+11. Why are you looking to leave your current company?
+12. What is your approach to finding candidates?
+13. How would you go about hiring for a brand new role?
+14. Tell me about your projects.
+15. Bring your CV to life.
+16. Complete a hackerrank test which revolved around pandas.
+Voici la liste des questions posées dans les témoignages d'interviews :
+
+1. What is your knowledge on Credit Default Swap?
+2. Asked me to pitch a stock and how I would allocate 1 million to invest.
+3. The implementation of ML techniques.
+4. Why do you want to work here?
+5. Various ways to optimize code on multi-core machines.
+6. General resume/data/statistics/probability questions.
+7. Do you know continuous development and Jenkins?
+8. How many observations per year for market index?
+9. Sharp ratio calculation question.
+10. Multiprocess/thread question.
+11. Python coding test mainly about strings.
+12. What do you know about the Asset Management Industry?
+13. 3 Python questions and one SQL question.
+
+Si vous avez besoin de plus de détails ou d'une clarification supplémentaire sur une question spécifique, n'hésitez pas à demander !
+Voici la liste des questions posées lors des interviews selon les témoignages fournis :
+
+1. **Comment ai-je surmonté une situation difficile ?**
+2. **Questions générales sur la connaissance de l'entreprise, du rôle, et sur la motivation pour postuler. Discussions approfondies sur le fonctionnement de l’entreprise et les défis quotidiens possibles. Questions comportementales sur la gestion des différents acteurs.**
+3. **Nous avons besoin de redessiner une partie problématique de l'organisation. Nous venons de terminer une investigation pour remédier à ce problème en utilisant un produit spécifique (où je travaille actuellement). Décrivez comment vous concevriez et mettriez en œuvre cette solution potentielle avec certains critères dans l'environnement ?**
+4. **Qu'est-ce qui vous a amené à postuler pour notre poste ?**
+5. **Quelle est votre expérience en programmation lors de vos précédents stages ?**
+6. **Parlez-moi de votre expérience antérieure.**
+7. **Questions de base: Pourquoi ce rôle ? Pourquoi cette entreprise ? Pourquoi vous ?**
+8. **Pourquoi cherchez-vous une nouvelle opportunité et pourquoi Millennium ?** (suivi de questions techniques sur Hackerrank, y compris l'implémentation d'une structure de
+Voici une liste des questions qui ont été posées lors des interviews :
+
+1. How do you plan a pitch deck?
+2. General OOP questions and specific C# such as delegates and async methods.
+3. Describe yourself, your hobbies, why did you apply for this job.
+4. How to find the median for 10T data across 10 servers?
+5. Why do you want to join? Walk me through your CV.
+6. Tell me about yourself. Walk me through your resume.
+7. If a firm purchases $10 worth of equipment, how will it flow through the three statements?
+8. What metric and what were the numbers you obtained when you did XXX trade in 2019? Give me the exact numbers of your analysis.
+9. Please tell us a past experience in which you helped solve a problem for your company.
+10. Basic investment technicals, not too hard.
+
+Ces questions couvrent à la fois des aspects techniques, comportementaux et des questions spécifiques liées à l'expérience et au résumé des candidats.
+Voici la liste des questions qui ont été posées lors des interviews mentionnées :
+
+1. Questions about prior experience, challenges in current role, thoughts on strategic solutions to some of the problems (challenges) they were experiencing.
+2. What is your experience with systematic futures strategies?
+3. Explain diff types of Corporate Actions.
+4. Tell me about a hard time you have faced in a team setting.
+5. Resume questions and what I do at my current job.
+6. What is the OSI model?
+7. - Why Cap Dev/IR?
+   - Why Millenium?
+   - Tell me about yourself.
+   - What are you looking for in an internship?
+8. - Tell Me About Yourself.
+   - How Did You Hear About This Position?
+   - Why Do You Want to Work at This Company?
+   - Why Do You Want This Job?
+   - Previous project.
+9. Are you familiar with ML?
+Voici la liste des questions qui ont été posées dans les différents témoignages d'interviews :
+
+1. Scenario based questions and basic but hard to know questions if you haven’t done your Microsoft certs.
+2. Python tests, easy ones. The data science assessment took me about 5-6 hours.
+3. 80 mins Timed HackerRank (Total 2 Questions): One Question on String and the other Question on Dict. They will give response the next day on whether you pass or not. One hour Data Cleaning Project afterwards.
+4. Tell me about yourself/ behavioural/ brainteasers/ etc.
+5. I applied for a c# role so assessment was in c#. In the hacker rank assessment, I got 3 coding questions and couple of queries in Sql. In the Interview I got asked about Prev experience and a Multithreading question and a using statement in c# and a SQl query question.
+6. Tell me about your background, why you want to make a move, etc.
+7. One of the question was related to the reading of csv file via MATLAB/Python. The second one was the puzzle from geeksforgeeks.
+8. Data Scientists and Analysts are often tasked to clean and analyze datasets. The dataset includes signal values generated
+Voici la liste des questions posées lors des interviews, telle que tirée des témoignages que vous m'avez fournis :
+
+1. **Première série de témoignages :**
+   - 12 questions sur Hackerrank
+   - Questions générales posées par les PMs
+   - Questions techniques posées par les PMs
+
+2. **Deuxième témoignage :**
+   - Questions sur les statistiques, notamment la régression
+   - Questions sur les expressions régulières (regex)
+   - Exercice de construction de PNL sur l'achat et la vente d'actions
+
+3. **Troisième témoignage :**
+   - Questions sur la récursion
+   - Questions sur les dictionnaires
+
+4. **Quatrième témoignage :**
+   - Pourquoi Millennium ?
+   - Comment avez-vous entendu parler de nous ?
+
+5. **Cinquième témoignage :**
+   - Questions similaires à travers les différents entretiens
+
+6. **Sixième témoignage :**
+   - Questions sur les structures de données et les algorithmes
+
+7. **Septième témoignage :**
+   - Décrivez comment vous construisez votre portefeuille
+   - Quels paramètres de risque utilisez-vous ?
+   - Que feriez-vous en cas de perte de 5 %
+Voici la liste des questions posées lors des interviews mentionnées :
+
+1. **Interview 1 :**
+   - Questions comportementales
+   - Questions sur la compréhension du rôle
+
+2. **Interview 2 :**
+   - "Présentez-vous votre CV"
+
+3. **Interview 3 :**
+   - Questions de codage de base sur HackerRank
+   - Exercice de nettoyage de données
+
+4. **Interview 4 :**
+   - "Présentez-vous votre CV"
+   - Questions de finance quantitative et logicielle de base
+
+5. **Interview 5 :**
+   - Questions sur la finance quantitative, ML, algèbre linéaire, optimisation, programmation dynamique, modèles probabilistes
+
+6. **Interview 6 :**
+   - "Quelle est votre stratégie ? Comment votre stratégie est-elle mise en œuvre ?"
+
+7. **Interview 7 :**
+   - "Présentez-nous votre CV"
+   - "Quelles sont vos impressions sur les marchés récemment ?"
+
+8. **Interview 8 :**
+   - "Parlez-nous de votre expérience"
+
+9. **Interview 9 :**
+   - "Que pouvez-vous apporter à l'équipe ?"
+
+Si vous avez besoin de plus de détails ou d'autres informations,
+Voici la liste des questions posées lors des interviews :
+
+1. Tell me about some difficult feedback you have received.
+2. List vs tuple, multithreading in Python, web socket vs TCP socket, implement calculation of a math expression, return unique elements in a list, count repetition in a list, meta class, descriptor, named tuple; get2sum with O(n) time and O(n) space; get2sum with O(nlogn) time without extra memory; implement queue with two stacks; parse protobuf to dict; class method vs static vs instance; struct vs class in C++; implement template of array; iterator; generator; implement binary tree; print it in order; object management in Python.
+3. Walk me through your resume? Do you know a lot about Excel?
+4. Why HR? Time you worked in a difficult team?
+5. Describe a time when you were unfamiliar with something, how did you familiarize yourself with it?
+6. Going through resume and ask about past projects.
+7. Describe a challenge you had to overcome.
+8. Go over your resume very quickly.
+9. Basic CS questions related to data structures, e.g. When do you use a linked list?
+10. Scenario-based questions, day-to-day activities.
+Voici la liste des questions posées lors des entretiens :
+
+1. **Tell me about your resume/ experiences.**
+2. **Given product table [ProductId, Name] having records [1, Apple,], [2, Orange], [3, Pear] And order table having [ProductId, Quantity] having records [1, 7], [2, 8] only, what's the query to produce [ProductId, Name, Quantity], [1, Apple, 7], [2, Orange, 8], [3, Pear, 0].**
+3. **Tell us about your experience at XYZ.**
+4. **General questions about chef syntax, devops.**
+5. **Telephone: How would you isolate the trend of a time series? What is linear regression? Video interview: Why did you apply for this job?**
+6. **Coding question in the language mentioned in the job description and a design question.**
+7. **Brainteaser, pitch stocks, why I wanted to join.**
+8. **They asked me about many detailed things on my resume, final year project, previous internship experience, what do I do in my school, and what language and techniques I used in my project, what's my favorite
+Voici la liste des questions d'entretien posées :
+
+1. Tell me about a stock you've been following.
+2. Rate yourself on C++ skills.
+3. Fibonacci and write the recursive function.
+4. Ask about my resume and BFS questions.
+5. Irrelevant questions.
+6. What's your experience on ETL database?
+7. How would like enjoy running a market neutral portfolio?
+8. System design questions.
+9. Find the max sum in an array.
+10. Describe a time you received feedback and how did you respond to it.
+Voici la liste des questions posées lors des interviews mentionnées:
+
+1. Pourquoi avez-vous choisi votre école actuelle pour votre master ? Dans quel domaine souhaitez-vous aller ?
+2. Quelles sont les cours que vous avez pris et lequel vous a le plus plu ?
+3. Pouvez-vous détailler votre expérience passée ?
+4. Pourquoi avez-vous choisi l'informatique comme votre majeure de premier cycle ?
+5. Comment gérez-vous un intervenant difficile ?
+6. Quelle est la différence entre Mongo et SQL ? Qu'est-ce que la 'store' procédure dans SQL ?
+7. Comment votre expérience correspond-elle au poste ?
+8. Quel est votre parcours ?
+9. Questions de codage, casse-tête, et connaissances en informatique.
+10. Votre expérience de travail précédente, compétence en programmation, pseudo-code pour des problèmes, scénarios en temps réel, familiarité avec le domaine des services bancaires d'investissement, questions comportementales.
+11. Donnée une date au format (M/J/A) et sachant que c'est par exemple un mardi, quelle est le jour de la semaine pour une autre date au format (M/J/A) ?
+12. Arbres de recherche binaires, questions logiques, questions sur Angular/React (niveau moyen) et gestion de la
+Voici la liste des questions posées lors des interviews, d'après les témoignages que vous avez fournis :
+
+1. **Tell me about your previous role.**
+2. **Why do you go for a master's degree in CS?**
+3. **Can you talk about a time that you disagreed with a former boss or manager on something and resolved the disagreement?**
+4. **What is your previous experience, if any, with the compliance department at a company you worked for?**
+5. **Average C++ questions and basic C++ 11 / Unix questions**
+6. **Wide range of questions about investment style.**
+7. **Technical question is asked dumbly. Not even ask about the technical test and how did it happen.**
+8. **Experience**
+9. **Describe a time that you experienced conflict and how you handled it.**
+Voici la liste des questions posées lors des interviews mentionnées:
+
+1. **Tell me about a time you worked under pressure? What do you know about Millennium?**
+2. **Mostly behavioural. Walk me through your resume.**
+3. **How do you measure risk of a portfolio? What are the different types of risks? Questions about VaR and CVar.**
+4. **Describe experience, walk me through your resume. Nothing tricky.**
+5. **Why do you want to pursue technology in finance?**
+6. **Why are you looking to leave your current position?**
+7. **Tell me about yourself?**
+8. **How do I trade certain products? Also asked sector specific questions.**
+9. **Why don't you intend to keep working at [part-time job with business I set up] after graduating?**
+10. **How to detect network latency issues or hardware issues?**
+11. **What is ifconfig?**
+12. **What is the difference between TCP and UDP?**
+13. **Name any three sorting algorithms.**
+14. **How many fryers are there at McDonald's Singapore?**
+Voici la liste des questions qui ont été posées lors des interviews selon les témoignages fournis :
+
+1. Tell me about yourself

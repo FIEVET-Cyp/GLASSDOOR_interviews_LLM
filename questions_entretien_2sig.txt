@@ -1,0 +1,341 @@
+Je serai heureux de t'aider à extraire les questions pertinentes de ta liste de témoignages d'interviews. Pour ce faire, pourrais-tu me fournir la liste des témoignages ou les questions posées lors de ces interviews ?
+Bien sûr, je vais examiner la liste de témoignages d'interviews que vous me fournirez et je renverrai uniquement les questions liées aux casse-tête, mathématiques ou intelligence artificielle. Merci de me fournir la liste des témoignages pour que je puisse commencer!
+Voici la liste des questions posées lors des interviews, qui ont un lien avec des brainteasers, des maths ou l'IA :
+
+1. **Online Assessment Questions** : coding questions and data analysis questions in the online assessment.
+2. **First Round (Hacker Rank)**: Graph Traversal, Search Algorithms, Trading Simulation.
+3. **Multiple Rounds (including Leetcode-like problems)**: Multiply two strings, find islands, shortest path (esque) question about currency exchange.
+4. **Online Assessment for virtual interviews**: Basically coded statistical methods.
+ 
+Si vous avez besoin de plus d'informations ou d'autres détails, n'hésitez pas à demander !
+Bien sûr, je serai heureux de vous aider. Veuillez fournir la liste des témoignages d'interviews dont vous disposez, et je vais extraire les questions pertinentes liées aux brainteasers, maths ou IA.
+Pour vous aider, je vais analyser les témoignages et ressortir uniquement les questions pertinentes liées aux brainteasers, maths ou intelligence artificielle. Veuillez fournir la liste des témoignages d'interviews pour que je puisse procéder.
+D'accord, je suis prêt à analyser les témoignages d'interviews afin d'identifier les questions liées aux brainteasers, aux mathématiques ou à l'IA. Pouvez-vous fournir la liste des témoignages ?
+Basé sur les témoignages fournis, voici une liste des questions d'entretien qui sont liées aux brainteasers, aux mathématiques ou à l'intelligence artificielle :
+
+1. **Question générale sur l'analyse :**
+   - What is your process/framework for analyzing a problem?
+
+2. **Questions générales comprenant des éléments de mathématiques et d'IA :**
+   - Statistics, programming, and brain teaser questions.
+   - Design some models that predict certain stock prices.
+
+3. **Questions techniques spécifiques liées aux statistiques et à l'analyse de données :**
+   - Basic stats, data analysis, coding, etc.
+
+4. **Test HackerRank et questions d'algorithmes :**
+   - Standard algorithms questions, practice with leetcode or similar.
+
+5. **Questions de conception de systèmes et algorithmes de LeetCode :**
+   - Systems Design questions and some leetcode.
+
+6. **Questions sur la programmation dynamique (Dynamic Programming) et le backtracking :**
+   - prepare for DP and backtrack questions.
+
+Ces questions sont pertinentes pour évaluer les compétences en résolution de problèmes, en analyse quantitative et en programmation, qui sont souvent essentielles dans les discussions sur les brainteasers, les mathématiques et l'intelligence artificielle.
+D'accord. Veuillez fournir les témoignages d'interviews, et je vais extraire et lister les questions pertinents sur les brainteasers, les maths ou l'IA.
+Bien entendu, pourriez-vous fournir la liste des témoignages d'interviews ? Je vais passer en revue les questions posées et extraire celles qui ont un lien avec des brainteasers, les mathématiques ou l'intelligence artificielle (IA).
+Je suis prêt à examiner les témoignages d'interviews que vous avez reçus et à extraire la liste des questions ayant un lien avec des brainteasers, les mathématiques ou l'intelligence artificielle. Pourriez-vous me fournir lesdits témoignages ?
+Voici les questions liées aux brainteasers, maths ou IA extraites des témoignages fournis :
+
+1. **Technical Round Questions**: 
+   - Covers: Behavior, probability, and modeling questions. Coding and simple data science. Stats, math and algorithms.
+
+2. **Coding and Probability Questions**:
+   - Mention of Binary Search, Graphs, and arrays.
+   - Leetcode stock questions. Predict usage of a service in NYC. Brain teasers involving probability.
+
+3. **Quantitative Research**:
+   - Predict Airbnb House Prices given historical data.
+
+Ces questions se rattachent aux domaines que vous avez spécifiés (brainteasers, maths, IA).
+Merci pour l'information. Afin de vous fournir des questions pertinentes, veuillez me fournir la liste des témoignages d'interviews auxquels vous faites référence.
+Voici la liste des questions liées aux brainteasers, aux maths ou à l'IA extraites des témoignages d'interviews :
+
+1. **Advanced college math (statistics, linear algebra). Programming (data structures).**
+2. **One debugging question, one permutation (LC medium)**
+3. **Case study -> Comment s'assurer que le prix de la maison est raisonnable**
+4. **Technical phone screen (Medium leetcode question)**
+5. **4 rounds Technical interviews - All were around leetcode medium/hard**
+Bien sûr, renvoyez-moi la liste des témoignages d'interviews et je vais extraire les questions qui ont un lien avec des brainteasers, les mathématiques ou l'intelligence artificielle (IA).
+Très bien, pourriez-vous fournir la liste des témoignages d'interviews afin que je puisse extraire les questions relatives aux casse-têtes, aux mathématiques ou à l'intelligence artificielle ?
+Bien sûr, mais je vais avoir besoin des témoignages complets des interviews pour pouvoir identifier les questions ayant lien avec les brainteasers, les mathématiques ou l'intelligence artificielle (IA). Pouvez-vous s'il vous plaît fournir ces témoignages?
+D'accord, merci de me fournir la liste des témoignages d'interviews afin que je puisse identifier et extraire les questions liées aux brainteasers, aux maths ou à l'IA.
+Voici la liste des questions d'entretien qui ont un lien avec des brainteasers, des maths ou l'IA :
+
+1. "I signed an NDA so cannot answer but the usual coding/math/stats questions and questions about past work experience."
+2. "Tough, Probability Questions, Market Related knowledge tested. Interviewer was cut throat in asking question. Hardest interview out of all the quant firms interviews I'd taken thus far. Mental math was also tested in the process."
+3. "Is CAPM a time series model?"
+4. "Call with HR, simple HackerRank coding assessment (OLS regression, and data analysis), then a technical phone screen."
+5. "difficult math / coding questions on the spot, required high skill / knowledge of mathematical statistics. had to have the theory memorized well and be able to apply it."
+6. "they were standard/difficult leetcode questions."
+7. "Q: Talk about a project that had high impact."
+8. "Phone Screen, take home assessment that is timed, second phone screen, onsite. Onsite was extremely difficult. 8 Hours of paired coding. Algorithmic, modeling, and stats focused."
+9. "Sorting Algorithm, Time Series Model, Basic Regression."
+10. "Advanced coding algorithms
+Pas de soucis, vas-y envoie ta liste de témoignages d'interviews et je pourrai extraire les questions correspondantes.
+Pour répondre à votre demande, je vais énumérer les questions liées aux casse-têtes (brainteasers), aux maths ou à l'intelligence artificielle (IA) à partir des témoignages que vous allez fournir. Veuillez partager ces témoignages d'entretiens afin que je puisse extraire les questions appropriées.
+Je serais ravi de vous aider avec les témoignages d'interviews. Pour ce faire, pouvez-vous me fournir la liste des témoignages d'interviews que vous mentionnez ?Cela me permettra d'extraire les questions pertinentes liées aux brainteasers, mathématiques ou intelligence artificielle.
+Bien sûr, je vais examiner la liste de témoignages d'interviews pour identifier les questions qui ont un lien avec des brainteasers, les mathématiques, ou l'intelligence artificielle. Veuillez fournir la liste des témoignages d'interviews.
+Voici la liste des questions d'entretien ayant un lien avec des brainteasers, les mathématiques ou l'intelligence artificielle :
+
+1. Vous avez un ancien jeu de données auquel vous avez ajusté un modèle de régression linéaire. Vous avez les coefficients, mais plus le jeu de données. Comment ajustez-vous un modèle de régression linéaire à un nouveau jeu de données ? (*Statistiques*, *Mathématiques*)
+
+2. Créez un générateur de nombres aléatoires. (*Brainteasers*, *Mathématiques*)
+
+3. Générez une variable aléatoire et résolvez un problème de base de données. (*Mathématiques*, *Simulation*)
+
+4. Comment amélioreriez-vous la régression linéaire ? (*Intelligence Artificielle*, *Statistiques*, *Mathématiques*)
+
+5. Identifiez les cercles d'amis à partir d'une matrice. (*Algorithmique*, *Mathématiques*)
+
+6. Résolvez une étude de cas en science des données. (*Data Science*, *Mathématiques*, *Intelligence Artificielle*)
+
+7. Problème impliquant la régression linéaire. (*Statistiques*, *Mathématiques*)
+
+8. Question technique non traditionnelle (plus de réflexion analytique
+Bien sûr, je vais passer en revue les témoignages pour extraire uniquement les questions liées aux brainteasers, aux mathématiques ou à l'intelligence artificielle. Merci de fournir la liste des témoignages d'interview pour que je puisse m'y atteler.
+Voici la liste des questions qui ont un lien avec des brainteasers, les maths ou l'IA :
+
+1. Question d'entretien pour Quantitative Researcher :
+   - "Linear regression coding test"
+
+2. Question d'entretien pour Quantitative Researcher :
+   - "Random number which not shown before in the list"
+
+3. Question d'entretien pour Quantitative Researcher :
+   - "A NYC temperature dataset. Asked to use linear regression to find the most predictive model."
+
+4. Question d'entretien lié à des tests techniques :
+   - "OOP and algorithms"
+
+5. Question d'entretien :
+   - "Asked about a case study with time series analysis. Was not familiar with the terminology."
+
+6. Question d'entretien pour le Freshman internship :
+   - "Coding challenge with 2 LeetCode easy/medium questions and an OOP question"
+   - "Another coding challenge with 4 LeetCode easy/medium questions"
+
+Bien sûr, vous pouvez fournir la liste des témoignages d'interviews pour que je puisse analyser et extraire les questions en lien avec des brainteasers, les mathématiques ou l'intelligence artificielle (IA).
+Bien sûr, je vais me concentrer sur les questions des interviews qui sont en lien avec des brainteasers, les mathématiques ou l'intelligence artificielle. Pouvez-vous me fournir la liste des témoignages d'interviews afin que je puisse identifier et extraire les questions pertinentes pour vous ?
+Je suis heureux de t'aider avec cela ! Pour pouvoir trier les questions en fonction de ton critère, pourrais-tu s'il te plaît fournir la liste des témoignages d'interviews contenant les questions posées ? Merci !
+Voici les questions d'entretien qui ont un lien avec des brainteasers, les maths ou l'IA :
+
+1. **Question dealing with permutations**
+2. **Question 1A lot of standard data structures and algorithms, list manipulations.**
+3. **Hackerrank questions**
+4. **The problems were actually very interesting and I can't complain. Although, they were about probability, which I totally did not expect.**
+5. **asked about data structures**
+6. **Difference between a process and a thread how process communicate how threads communicate difference between latency and throughput Random generator, follow up- new range in the old generator**
+7. **You were given a table with four currencies with their respective trading values (not symmetric) and asked that given a start currency and an end currency you maximize the end value. You can't trade for the same currency twice.** 
+
+Ces questions sont en lien avec des concepts técnicos tels que les permutations, les structures de données, les algorithmes, la probabilité, la génération aléatoire, et l'optimisation des échanges de devises, toutes faisant partie des domaines de brainteasers, mathématiques et IA.
+Veuillez fournir la liste des témoignages d'interviews afin que je puisse identifier les questions qui ont un lien avec les brainteasers, les mathématiques ou l'intelligence artificielle.
+Voici la liste des questions d'entretien qui ont un lien avec les brainteasers, les maths ou l'IA :
+
+1. Step 1 coding assessment (3hrs, 2Q, seen one on LeetCode). Be careful about edge cases.
+2. Step 2 phone interview w/ engineer, 1 behavior Q (past project), 1 technical Q (seen on LeetCode but I forgot how to do, struggled a bit and eventually figured out) Used Codepad or sth.
+3. Question sur problème LeetCode tagué avec Two Sigma.
+4. Typical algorithm/design questions.
+5. How to implement Huffman coding trees.
+6. Leetcode medium using DFS and easy question using strings.
+7. Solve 2 coding questions related to permutation of arrays and string manipulations.
+8. What happen if two features correlates in linear regression.
+9. Finding the most profitable conversions between currency.
+Bien sûr, je peux vous aider à cela. Veuillez fournir la liste des témoignages des interviews, et je vais extraire et renvoyer les questions liées aux brainteasers, aux mathématiques ou à l'IA.
+Voici la liste des questions liées à des brainteasers, maths ou IA extraites des témoignages :
+
+1. **Standard ball probability questions, basic coding, a calculus question, some basic linear algebra, some ML, a data question about identifying data that is uncorrelated but not independent.**
+2. **Hackerrank level questions**
+3. **To analyze a meta dataset, also try to visualize your result by instructions**
+Je suis désolé, mais il semble que vous n'avez pas inclus les témoignages d'interviews dont vous parlez. Pour pouvoir analyser les questions et en extraire celles qui sont en lien avec les brainteasers, les maths ou l'IA, il me faudrait la liste des témoignages que vous mentionnez. Merci de les fournir, et je pourrai ensuite vous aider à identifier les questions pertinentes.
+D'accord, pourriez-vous s'il vous plaît me fournir la liste des témoignages d'interviews afin que je puisse examiner les questions posées et déterminer si elles sont liées à des brainteasers, aux mathématiques ou à l'intelligence artificielle (IA) ?
+Voici la liste des questions d'entretien qui ont un lien avec les brainteasers, les mathématiques ou l'IA :
+
+1. **Question sur le parcours professionnel :**
+   - Aucun rapport mentionné avec les brainteasers, les maths ou l'IA.
+
+2. **Question 1 :** basic dfs
+
+3. **Question 1 :** 
+   - Aucune question de ce type mentionnée.
+
+4. **Question 1 :** Design ATM, they might ask you actually code up an ATM class while this question is very vaguely defined.
+
+5. **Question sur le parcours professionnel et expérience professionnelle :**
+   - Aucun rapport mentionné avec les brainteasers, les maths ou l'IA.
+
+6. **Question 1 :** Design google maps
+
+7. **Question 1 :** Some questions involving dp, dfs and union_find.
+
+8. **Question sur les responsabilités actuelles :**
+   - Aucun rapport mentionné avec les brainteasers, les maths ou l'IA.
+
+9. **Question 1 :** What is the difference between threads and processes. Briefly describe linux pipeline mechanism.
+   - Aucun rapport mentionné avec les brainteasers, les maths ou l'IA.
+
+10. **Question 1 :
+Bien sûr, je peux le faire. Merci de me fournir la liste des témoignages d'interviews afin que je puisse extraire les questions pertinentes concernant les brainteasers, les mathématiques ou l'intelligence artificielle.
+Pour vous aider efficacement, il me faudrait voir la liste des témoignages d'interviews. Pouvez-vous me fournir cette liste pour que je puisse identifier les questions ayant un lien avec des brainteasers, les maths ou l'IA ?
+Bien sûr! Pour pouvoir vous aider, pourriez-vous s'il vous plaît fournir les témoignages des interviews ou les transcriptions? Cela me permettra de repérer les questions spécifiques liées aux brainteasers, aux mathématiques ou à l'intelligence artificielle et de vous les renvoyer.
+D'accord, je vais analyser la liste de témoignages que vous avez. Veuillez fournir les détails de ces témoignages d'interviews afin que je puisse en extraire les questions liées aux brainteasers, aux maths ou à l'IA.
+Voici une liste des questions posées lors des entretiens qui ont un lien avec des brainteasers, les mathématiques ou l'intelligence artificielle :
+
+1. Implement a merge sort in place.
+2. To determine the number of friend circles.
+3. To find the longest string chain possible given a dictionary of words.
+4. Code an anomaly.
+5. How would you implement a Concurrent Blocking Queue?
+6. Objected oriented design questions. Questions on concurrency. How to return medium value from integer stream. Programming question. Something to do with returning an item with specified probability. Also asked how I would test my code.
+7. All probability questions.
+Voici la liste des questions d'entretien qui ont un lien avec des brainteasers, les mathématiques ou l'intelligence artificielle :
+
+1. Write a merge sort.
+
+2. Friend circle.
+
+3. A European dude with a thick accent asks you for a probability-based pair programming assignment.
+
+4. The interview consisted of SQL, basic math, Excel, Python, and UNIX/LINUX.
+
+Ces questions semblent toutes impliquer des compétences techniques en mathématiques ou en programmation, qui sont souvent alignées avec des brainteasers ou des tests de logique.
+Bien sûr, je vais traiter votre demande. Veuillez fournir la liste des témoignages d'interviews afin que je puisse identifier les questions liées aux brainteasers, mathématiques ou intelligence artificielle (IA).
+D'accord ! Je vais extraire et renvoyer les questions relatives aux brainteasers, aux mathématiques ou à l'intelligence artificielle (IA). Veuillez fournir la liste de témoignages des interviews pour que je puisse analyser les questions posées.
+Voici la liste des questions relatives aux brainteasers, maths ou IA mentionnées dans les témoignages d'interviews :
+
+1. **Questions d'entretien pour Software Engineer, le 16 nov. 2016 :**
+   - One question from graph theory, and one question about string manipulation and search.
+
+2. **Questions d'entretien pour Software Engineer, le 18 août 2016 :**
+   - Design LRU
+   - Find max benefit from 2 transactions given some stock prices
+   - Design an ATM
+
+3. **Questions d'entretien pour Intern, le 22 août 2016 :**
+   - The coding challenge consisted of 2 questions and had a time limit of 3 hours.
+
+4. **Questions d'entretien (sans date spécifique pour un entretien chez Two Sigma) :**
+   - Hacker Rank - 2 Graph DFS based algorithms
+   - Phone interview - Calculate median from a data stream, multithreading basics (thread communication vs process communication), etc.
+   - Onsite interview:
+       - LRU Cache (Write Test cases also on a computer)
+       - Design an ATM
+       - Fixed maximum profit from buying and selling stock with 2 transactions
+       - Find bug in code (compute median of two sorted arrays)
+
+5
+Merci de m'avoir fourni cette information. Pour que je puisse identifier et extraire les questions pertinentes liées aux brainteasers, aux mathématiques ou à l'intelligence artificielle de la liste des témoignages, il me faudrait pouvoir accéder à cette liste.  
+
+Ainsi, si vous pouviez me fournir cette liste, je pourrai extraire les questions pertinentes pour vous.
+Voici la liste des questions d'entretien ayant un lien avec des brainteasers, les maths ou l'intelligence artificielle :
+
+1. **Témoignage 1**
+   - Question 1 : The classic Knight on a numpad question.
+
+2. **Témoignage 3**
+   - Question 1 : Basic algorithm questions.
+
+3. **Témoignage 5**
+   - Question 1 : mta data challenge.
+
+4. **Témoignage 6**
+   - Question 1 : For the architecture question, Conway's Game of Life algorithm was considered. I was asked to write pseudo code for tackling this problem at a micro-level (e.g. one machine) and a large-scale level (e.g. distributed system).
+
+5. **Témoignage 7**
+   - Question 1 : Dynamic Programming related questions are frequent.
+
+6. **Témoignage 8**
+   - Question 1 : Write code to process multiple interleaving streams of data (from a text file) and output statistics on each stream.
+Voici la liste des questions d'entretien qui ont un lien avec des brainteasers, les maths ou l'IA :
+
+1. **"Write a string class in C++"**
+
+2. **"Basic graph theory (BFS, DFS) and dynamical programming"**
+
+3. **"Generic HackerRank questions"**
+
+4. **"Merge two sorted array, Best time to buy and sell stock"**
+
+Ces questions sont associées à des tests de connaissance en algorithmique, en structures de données, en programmation et en théorie des graphes, qui sont des sujets pertinents aux brainteasers, aux maths et à l'IA.
+Très bien, merci de me fournir la liste des témoignages d'interviews, et je vais extraire les questions spécifiques qui sont liées aux casse-têtes (brainteasers), aux mathématiques ou à l'intelligence artificielle (IA).
+Voici une liste des questions de témoignage d'interview qui ont un lien avec des brainteasers, les mathématiques ou l'IA :
+
+1. **Bitwise Operation, Add one to a number without using +**
+2. **Data Structures and algorithms based questions.**
+3. **data analysis and statistical testing problems.**
+4. **Graph Transitive Closure**
+5. **You will definitely code something - starts simple and then gets more challenging. They will give you a simple algorithm to code and make sure you are covering corner cases.**
+6. **Two questions for the coding test, one involving pure coding and the other involving some data analysis.**
+Bien sûr, pour extraire les questions en lien avec des brainteasers, les mathématiques ou l'intelligence artificielle, j'aurais besoin de voir la liste des témoignages des interviews. Pourriez-vous s'il vous plaît me fournir cette liste?
+Voici la liste des questions d'entretien ayant un lien avec des brainteasers, maths ou IA :
+
+1. Regex Matching, Trees, Algorithms, etc...
+2. The n-th smallest multiple of a set of integers. For example, set = {5,7}, - n = 4, answer 14 - n = 5, answer 15. The sequence shall be: 5,7,10,14,15,20,21,25,...
+
+Aucune autre question parmi celles mentionnées n'est directement liée à des brainteasers, maths ou IA.
+Très bien, je vais examiner les témoignages d'interviews que vous fournissez et extraire uniquement les questions liées aux brainteasers, aux mathématiques ou à l'intelligence artificielle. Vous pouvez maintenant me donner la liste des témoignages.
+Voici une liste des questions d'entretien qui ont un lien avec des brainteasers, les mathématiques ou l'intelligence artificielle :
+
+1. "Asked me a probability question about weighted dice and estimated value of each scenario."
+2. "How do you decide which variables are the most important in a regression."
+3. "Reg expression matching algorithm."
+4. "Questions on data structure, design pattern, floats and threads."
+5. "They asked me to analyze some code. Since I am not a coder and the job did not involve any coding, this was rather puzzling to me."
+Voici les questions d'entretien ayant un lien avec des brainteasers, les maths ou l'IA extraites des témoignages :
+
+1. "Some data structure and algorithms questions."
+
+2. "If you have good experience with Data Structure and Algorithms, you should pass that round easily."
+
+3. "The interview questions are similar to other giant tech companies, however they ask more mathematical questions."
+
+4. "How to compare two doubles in C++?"
+
+5. "sorting strings and numbers in place, data center sync problem."
+Merci de me fournir la liste des témoignages d'interviews pour que je puisse identifier les questions liées aux brainteasers, aux mathématiques ou à l'intelligence artificielle (IA).
+Voici une liste des questions liées aux brainteasers, aux maths, ou à l'IA relevées dans les témoignages :
+
+1. **Excel questions, quadratic equations, case studies** (Première interview mentionnée)
+2. **One or two brainteasers, a systems design question, and several coding questions** (deuxième interview mentionnée)
+3. **Write an algorithm to match glob with test. You MAY NOT use regular expressions.** (quatrième interview mentionnée)
+4. **Write a program to generate ALL unique permutations of those characters. Unique. You may not store in an array or list, due to memory constraints.** (quatrième interview mentionnée)
+5. **Given a list of string (numbers and words), sort words in alphabetical order and numbers are in numerical order.** (cinquième interview mentionnée)
+6. **Sort a list of words and integers, but integers should all remain in their original indices, and words should remain in their original indices.** (sixième interview mentionnée)
+7. **Hybrid string and number sorting** (septième interview mentionnée)
+8. **Sort the input line that contains words and integers** (huitième interview mentionnée)
+9. **How to compress a
+Voici la liste des questions d'entretien qui ont un lien avec des brainteasers, les mathématiques ou l'IA tirées des témoignages :
+
+1. Sorting strings that contain words and digits.
+2. K-selection problem.
+3. How would you design a data-driven system to... (incomplete question indicating a possible focus on data analysis or system design, which often involves mathematical and logical reasoning).
+4. Print all the subsets of set1 (this involves combinatorial mathematics).
+5. Reverse a linked list (linked list manipulation often requires algorithmic thinking).
+6. Write a program that takes a list of strings containing integers and words and returns a sorted version of the list. The goal is to sort this list in such a way that all words are in alphabetical order and all integers are in numerical order. Furthermore, if the nth element in the list is an integer it must remain an integer, and if it is a word it must remain a word (involves sorting algorithms and data structures).
+
+Les autres témoignages mentionnent des questions ou des processus qui sont principalement d'ordre général ou administratif, et n'impliquent pas spécifiquement de brainteasers, de mathématiques ou d'IA.
+Voici une liste des questions d'entretien mentionnées qui ont un lien avec des brainteasers, les maths ou l'IA :
+
+1. **Data structure run times, hash table, linked list, etc**
+   
+2. **Technical problem. It was in the email based coding question. It asked about algorithm question similar to CLRS book.**
+
+3. **Write an efficient stored procedure to allocate unique integer ids.**
+
+4. **OO design patterns, some algorithm questions**
+
+5. **Two intermediate level C++ programming problems.**
+Voici la liste des questions d'entretien liées aux brainteasers, aux mathématiques ou à l'IA extraites des témoignages :
+
+1. **Il y a une collection de particules. Vous recevez une chaîne de caractères contenant des 'L' et des 'R', où 'L' représente une particule se déplaçant vers la gauche et 'R' représente une particule se déplaçant vers la droite. La vitesse de déplacement est donnée comme un autre paramètre. Plusieurs particules pourraient se trouver à la même position. Donnez l'animation des particules en mouvement.**
+
+2. **Des énigmes.** *(Note : La question n'est pas spécifiée ici, mais les énigmes peuvent souvent être classées comme des brainteasers.)*
+
+3. **Comparer les pangrammes avec une chaîne de caractères et trouver les lettres manquantes.**
+
+4. **Vous devez écrire une méthode `getMissingLetters`, qui prend une chaîne de caractères, `sentence`, et renvoie toutes les lettres manquantes (qui empêchent la phrase d'être un pangramme).**
+
+Veuillez noter que certaines questions peuvent ne pas être directement liées à l'IA ou aux mathématiques avancées, mais elles peuvent impliquer des
+Bien sûr, je vais renvoyer la liste des questions qui ont un lien avec des brainteasers, les mathématiques ou l'IA. Pour cela, j'aurais besoin de lire les témoignages d'interviews que vous avez mentionnés. Pourriez-vous les partager s'il vous plaît?
+D'après le témoignage fourni, il semble que seuls des éléments pertinents aux langages de programmation Java ont été mentionnés, et aucune question spécifique aux brainteasers, maths ou IA n'est indiquée. Je ne peux donc pas extraire de questions qui répondent à votre critère.

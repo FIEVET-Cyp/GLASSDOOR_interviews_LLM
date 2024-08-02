@@ -1,0 +1,97 @@
+### Liste Mise à Jour et Synthèse des Questions
+
+#### Probabilités et Statistiques:
+1. **Expectation conditionnelle de \( W_s \) donné \( W_t \), où \( s \leq t \).** (2 occurrences)
+2. **Questions standard en théorie des probabilités : loi des grands nombres, questions de base, jeu de dés.** (4 occurrences)
+3. **Brain teaser basé sur la formule de Bayes.** (6 occurrences)
+4. **Nombre attendu de lancers pour obtenir TH et HTH.** (5 occurrences)
+5. **Questions probabilistes sur le mouvement brownien.**
+6. **Probabilité que \( X \) et \( X + Y \) soient tous deux positifs si \( X, Y \sim N(0,1) \).**
+7. **Applications de base en statistiques et probabilités : combinaisons, p-valeurs.**
+8. **Nombre attendu de bouchons de circulation pour 100 voitures avec des vitesses [0,1].**
+9. **Question sur la covariance de combinaison linéaire de variables aléatoires.** (3 occurrences)
+10. **Statistiques basiques.** (2 occurrences)
+11. **Combinatoire basique.**
+12. **Test de distribution binomiale.** (2 occurrences)
+13. **Brain teaser : Remplissage d'eau avec des récipients de hauteurs différentes.** (5 occurrences)
+14. **Questions sur la distribution normale.** (2 occurrences)
+15. **Questions sur la distribution du chi-deux.**
+16. **Questions sur le Sharpe ratio.** (2 occurrences)
+17. **Questions sur la valeur attendue et le théorème central limite.**
+18. **Questions sur l'impact des règles de stop loss/profit sur les stratégies de trading.**
+19. **Espérance que \( X \) soit supérieur à \( x \) pour une loi uniforme donnée.**
+20. **Probabilité que \( X \) soit supérieur à \( Y \) si \( X \) et \( Y \) sont iid \( N(0,1) \).**
+21. **Arbres de probabilité, distributions normales.** (2 occurrences)
+22. **Questions de probabilité et programmation.** (3 occurrences)
+23. **Questions de probabilité et calcul intégral.**
+24. **Questions sur la distribution normalisée conjointe et la probabilité conditionnelle.** (2 occurrences)
+25. **Questions de probabilité et d'algèbre.**
+26. **Questions sur les statistiques et mathématiques appliquées au trading quantitatif.**
+27. **Probabilité que n points sur un cercle soient dans un seul demi-cercle.**
+28. **Covariance d'obtenir 2 et 3 lors de 6 lancers de dé.**
+29. **Probabilité que la somme de jetés de pièces soit 100.**
+30. **Comparaison de loteries basées sur leur espérance et écart-type.**
+31. **Hypothèses de la régression linéaire.**
+32. **Différence entre les régularisations lasso et ridge.**
+33. **Impact de dupliquer les points de données sur l'erreur de régression linéaire.**
+34. **Espérance de gain d'une stratégie.**
+35. **Questions de probabilité bayésienne et stratégies de trading.**
+
+#### Exercice de Code:
+1. **Écrire un programme pour trouver la racine carrée d'un nombre.** (3 occurrences)
+2. **Questions de programmation dynamique.** (12 occurrences)
+3. **Questions de codage standard Leetcode (niveau moyen à difficile).** (10 occurrences)
+4. **Codage en direct : questions Leetcode/hackerrank, chiffrement et déchiffrement, problèmes de réseau.** (2 occurrences)
+5. **Projet : Trouver la sous-séquence minimale avec au moins \( k \) éléments distincts.**
+6. **Implémenter une méthode pour minimiser la distance.**
+7. **Variation du problème sqrt(x).**
+8. **Programmation dynamique : cansum(int a, list[b,c,d]), vérifier si \( a \) peut être une somme des éléments dans la liste.**
+9. **Créer une classe de stockage utilisant exclusivement la bibliothèque standard.**
+10. **Exercice de codage standard hackerrank.** (5 occurrences)
+11. **Implémentation d'une question sur les arbres binaires.**
+12. **Écrire une fonction pour lire des fichiers CSV.**
+13. **Parser une structure de données de type CSV (utiliser zip).**
+14. **Détecter et corriger les bugs dans un script Python pour un carnet de commandes.**
+15. **Trouver si une string est divisible par une autre string.**
+16. **Vérifier si deux listes ont la même fréquence d'éléments.**
+17. **Questions de codage Leetcode/hackerrank : Longest Increasing Subsequence, Fibonacci DP, Subarray Sum, Binary String Palindromes.** (10 occurrences)
+18. **Min cost to climb the stairs (Dynamic Programming).**
+19. **Implémenter une classe de parsing de données avec diverses méthodes.**
+20. **Exercice de coding sur Kaggle-like (analyse de dataset).**
+21. **Tri fusion sans utiliser de fonction intégrée.**
+22. **Coder un max drawdown avec complexité \( O(n) \).**
+23. **Nombre de sous-chaînes dans une chaîne.**
+24. **Insérer des opérateurs mathématiques entre quatre nombres pour obtenir 24.**
+25. **Écrire un code Python pour trouver la perte maximale d'une stratégie de trading.**
+26. **Trouver le premier caractère non répétitif dans une chaîne avec une complexité temporelle et spatiale optimale.**
+27. **Fonction renvoyant le \( n \)-ème nombre non premier.**
+28. **Somme des éléments dans une liste de listes pour chaque colonne et rangée.**
+29. **Résoudre un programme quadratique manuellement.**
+30. **Conception de classe C++ pour le stockage et la recherche de ticks de stock.**
+31. **Questions de codage et de probabilité.** (4 occurrences)
+32. **Profit maximum en achetant/vendant une action une seule fois (achat avant vente).**
+33. **Écrire un programme pour compter le nombre de palindromes dans une chaîne.**
+34. **Inversion d’un entier.**
+35. **Conception de LRU Cache.**
+36. **Conception de TinyURL.**
+37. **Trouver le sous-tableau \( A[i:j] \) dont la somme est égale à 0.**
+38. **Générer des points aléatoires dans un polygone.**
+39. **Calculer une somme de contrôle pour une chaîne (Hackerrank).**
+40. **Exercice de codage incluant un système de clé-valeur avec mémoire limitée.**
+41. **Trouver le Kᵉ plus grand nombre dans un tableau mélangé.**
+42. **Coder une séquence Fibonacci.**
+43. **Écrire un code en C++ qui génère toutes les séquences formées par X zéros et Y uns.**
+44. **Dynamic programming : construire une stratégie de trading de données brutes jusqu'à bps.**
+45. **Générer tous les vecteurs possibles de longueur 8 contenant 4 '1' et 4 '0'.**
+46. **Trouver le nombre manquant dans un tableau.**
+47. **Max-subarray et problèmes de bissection et tri.**
+48. **Somme maximale d'un sous-tableau.**
+
+#### Brainteasers et Questions Diverses:
+1. **Questions de finance stochastique.** (2 occurrences)
+2. **A scores with chance 1/2, B scores with chance 1/3. A plays first, what's the probability of A winning the game?**
+3. **N random variables x_i, the coefficients of every two random variables are all equal to \(\rho\). What is the range of \(\rho\)?**
+4. **Questions sur le background et l'expérience du candidat.** (3 occurrences)
+5. **Projet le plus intéressant de votre carrière ?**
+6. **Algebra question about correlation.**
+7. **Gauss-Markov assumptions.**Je suis désolé pour la confusion, mais il semble que vous n'avez pas fourni une réponse précédente pour que je puisse la continuer. Comment puis-je vous aider aujourd'hui ? Si vous avez une question ou un sujet spécifique en tête, n'hésitez pas à le mentionner !
